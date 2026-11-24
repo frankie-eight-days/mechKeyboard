@@ -1,0 +1,21 @@
+# Workstation and editor state
+.DS_Store
+.history/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+
+# KiCad and FreeCAD local settings, locks and backup snapshots
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backups/
+fp-info-cache
+~*.lck
+*.FCBak
+*.FCStd[0-9]*
+*.blend[0-9]*

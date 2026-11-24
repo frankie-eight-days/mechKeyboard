@@ -1,0 +1,24 @@
+quantity_per_keyboard,item,specification,suggested_source,part_or_file,in_existing_electronics_bom,assembly_note,source_or_reference
+2,Tray screws,"M3 × 12 socket head, full thread",Accu,SSCF-M3-12-A2,No,"Ø5.5 × 3 head, 2.5 mm Allen key",https://www.accu.co.uk/metric-cap-head-screws/3820-SSCF-M3-12-A2
+3,Captured nuts,"M3 × 0.5, 5.5 mm flats × 2.4 mm thick",Würth,0322 3,No,Two seam nuts and one dial nut. Standard DIN 934.,https://marketplacemedia.witglobal.net/source/marketplace/stmedia/wuerth/documents/documents/std.lang.all/29217933.pdf
+4,Front PCB screws,"M2.5 × 6 socket button, full thread",Accu,SSB-M2-5-6-A2,No,Ø4.7 mm head. Projects 4.4 mm into the tray and engages a 2.0 mm steel hex nut.,https://accu-components.com/us/socket-button-screws/8092-SSB-M2-5-6-A2
+5,Rear PCB / cover screws,"M2.5 × 16 socket button, full thread",Accu,SSB-M2-5-16-A2,No,"Ø4.7 mm head. Three on left, two on right. Projects 6.0 mm into the tray and engages a 2.0 mm steel hex nut.",https://www.accu.co.uk/socket-button-screws/8096-SSB-M2-5-16-A2
+9,PCB / cover captive nuts,"M2.5 × 0.45 DIN 934, 5.0 mm flats × 2.0 mm thick, A2 steel",Accu,HPN-M2.5-A2,No,Slide one nut into each Ø8.0 mm boss from inside the tray before lowering the keybed.,https://accu-components.com/us/hexagon-nuts/7886-HPN-M2-5-A2
+4,OLED screws,"M2 × 6, DIN 965, 90° countersunk",Accu,SPK-M2-6-CS-BZP,No,"3.8 mm head, 6 mm overall. PZ1 drive.",https://www.accu.co.uk/pozi-countersunk-screws/988506-SPK-M2-6-CS-BZP
+4,OLED nuts,"M2 × 0.4 DIN 934, 4 mm flats × 1.6 mm",Accu,HPN-M2-A2,No,Hold nuts while mounting OLED on bench.,https://accu-components.com/us/hexagon-nuts/7884-HPN-M2-A2
+1,Dial set screw,M3 × 8 flat point DIN 913 / ISO 4026,Accu,SSF-M3-8-A4,No,"1.5 mm hex drive, load nut before ring.",https://accu-components.com/us/flat-point-set-screws/4396-SSF-M3-8-A4
+1,Switch plate,"1.50 mm steel plate, deburred",Laser cutting shop,switch-plate-1p5mm.dxf,No,"Cut one at 1:1 in millimetres. Confirm 1.325 mm webs, switch clip tolerance and stabilizer fit before ordering.",../mechanical/switch-plate/switch-plate-1p5mm.dxf
+1 set,Housing,"2 trays, a rear cover pair and 1 dial; sculpted left cover includes 2 pieces",Print in PLA,"Plain, engraved or one sculpted theme",No,"Plain and engraved cases need 5 prints. Sculpted cases need 6, including the common left carrier.",../mechanical/tray-fit-meshes
+67,Key switches,"CHERRY MX2A RGB Red, five pin",Mechanical Keyboards,MX2A-L1NB,"Hand-fit netlist entry, external source",Solder after fitting through plate.,https://mechanicalkeyboards.com/products/cherry-mx2a-red-45g-linear?variant=48020634239276
+1 set,Keycaps,"US ANSI 65%, 6.25u Space, 1.75u right Shift, 1.25u bottom modifiers",Keyboard supplier,Match layout and row profile,No,Shine-through top legends if desired.,../mechanical/key-centers.csv
+1 set,PCB stabilizers,"Three 2u-family wires plus one 6.25u, PCB mount",Keyboard supplier,Final kit selection open,No,"Select for 1.6 mm PCB and verify holes, wire clearance and supplied mounting hardware.",fit.md
+1,Display,Adafruit 128 × 32 OLED breakout,Adafruit,4440,No,Purchased as assembled module.,https://www.adafruit.com/product/4440
+1,Display cable,50 mm preterminated STEMMA QT cable,Adafruit,4399,No,"One cable, both ends terminated.",https://www.adafruit.com/product/4399
+1,Battery pack,CU-J450-V3 protected 1S pack,BatterySpace,CU-J450-V3,No,"Verify final plug pinout, temperature sensor and service slack for J600.",https://www.batteryspace.com/Polymer-Li-Ion-battery-3.7V-1500mAh-5.55Wh-3A-rate-703562-2C-2.aspx
+1,Haptic actuator,LEADER LD0832AA-0099F,LCSC,C2682305,"Yes, supply loose for hand fit",Apply the specified mounting adhesive and insulate/strain-relieve the two leads.,https://www.lcsc.com/product-detail/C2682305.html
+1,Volume potentiometer,Alps Alpine RK09K1130A6S,JLCPCB / LCSC,C209770,"Yes, manual THT quotation",Already counted in electronics BOM.,https://jlcpcb.com/partdetail/C209770
+1,Battery retainer,8 mm wide soft strap,Local / industrial supply,Cut to fit,No,Keep closure clear of top of pouch.,
+1,Battery cushion,0.8 mm foam pad,Local / industrial supply,Cut to fit,No,Under the protected pack.,
+As needed,Insulation and actuator mounting,Thin insulating tape and actuator adhesive per motor drawing,Electronics / industrial supply,Final grade and thickness open,No,Account for battery and underside clearance.,haptics.md
+1 optional,Dial drag ring,11 mm ID × 1.5 mm silicone O-ring,Seal supplier,Optional,No,Install after the dial nut.,
+4 optional,Feet,Low-profile stick-on feet,Local hardware supplier,Optional,No,Place clear of strap recess.,

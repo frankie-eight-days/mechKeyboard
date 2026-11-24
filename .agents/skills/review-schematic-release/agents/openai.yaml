@@ -1,0 +1,4 @@
+interface:
+  display_name: "Schematic Release Review"
+  short_description: "Audit schematics before PCB placement and routing"
+  default_prompt: "Use $review-schematic-release to audit the current schematic for PCB layout readiness and produce a prioritized issue register."

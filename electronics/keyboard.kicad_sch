@@ -1,0 +1,3025 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "95938abe-13e3-49dd-b52a-5dc887152001")
+	(paper "A3")
+	(title_block
+		(title "Keyboard system schematic")
+		(rev "F")
+		(date "2026-11-21")
+	)
+	(lib_symbols
+		(symbol "Device:R_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.016 1.016)
+					)
+				)
+			)
+			(property "Value" "R_Small"
+				(at 1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor, small symbol"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R_Small_0_1"
+				(rectangle
+					(start -0.762 1.778)
+					(end 0.762 -1.778)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 0.762)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 0.762)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Switch:SW_SPDT"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_SPDT"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Switch, single pole double throw"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_SPDT_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.651 0.254)
+						(xy 1.651 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SW_SPDT_1_1"
+				(rectangle
+					(start -3.175 3.81)
+					(end 3.175 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:+3V3"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "+3V3"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3V3\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+3V3_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27)
+						(xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54)
+						(xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0)
+						(xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3V3_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0)
+						(xy 0 -1.27)
+						(xy 1.27 -1.27)
+						(xy 0 -2.54)
+						(xy -1.27 -1.27)
+						(xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(embedded_fonts no)
+	(symbol
+		(lib_id "Switch:SW_SPDT")
+		(at 60.96 234.95 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dc458ace-2b75-4879-a1b7-9683d4d94f74")
+		(property "Reference" "SW400"
+			(at 62.23 224.79 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+			)
+		)
+		(property "Value" "MSK12C02"
+			(at 62.23 227.33 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_Shouhan_MSK12C02"
+			(at 60.96 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C431540"
+			(at 60.96 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Assembly" "Factory SMT"
+			(at 60.96 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "SHOU HAN"
+			(at 60.96 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "MSK12C02"
+			(at 60.96 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(pin "3"
+			(uuid "c7f06922-a47b-4cad-81c5-15ea374d77bf")
+		)
+		(pin "2"
+			(uuid "fe3bddc7-e455-406f-9a05-c8e79ff0185e")
+		)
+		(pin "1"
+			(uuid "7975a333-db78-4d8f-a8d2-e8bc6087d105")
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(reference "SW400")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 43.18 220.98 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "28730514-7e69-4462-8aa8-3e5ec25fdda1")
+		(property "Reference" "R401"
+			(at 35.56 219.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 35.56 222.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 43.18 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 220.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 43.18 220.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 43.18 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Assembly" "Factory SMT"
+			(at 43.18 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 43.18 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 43.18 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "553d4027-92a6-4fe7-bfca-3db0dde43b6f")
+		)
+		(pin "2"
+			(uuid "48bce2a3-c0bc-4f05-9f34-c2305af05755")
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(reference "R401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 43.18 213.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(uuid "a87242c0-6550-47f6-927f-aa2ba5859836")
+		(property "Reference" "#PWR4000"
+			(at 43.18 213.36 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+			)
+		)
+		(property "Value" "3V3"
+			(at 43.18 208.28 0)
+			(effects
+				(font
+					(size 1.15 1.15)
+				)
+			)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(reference "#PWR4000")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 43.18 213.36)
+			(xy 43.18 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b04dcaf-0879-4f16-84d8-e7e2550ebfef")
+	)
+	(wire
+		(pts
+			(xy 43.18 223.52)
+			(xy 43.18 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17eedc00-a5f4-4288-99e1-f5a4866ed126")
+	)
+	(wire
+		(pts
+			(xy 43.18 232.41)
+			(xy 55.88 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4986c66b-47ef-4a80-8e53-246933a9e4c4")
+	)
+	(wire
+		(pts
+			(xy 55.88 237.49)
+			(xy 43.18 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0abba313-1d05-4ede-8a8a-49a29fd667df")
+	)
+	(wire
+		(pts
+			(xy 43.18 237.49)
+			(xy 43.18 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4a3d7e6-73ab-42c9-85cd-4948832acde5")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 43.18 248.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(uuid "60d066ca-24af-4afd-ad8a-761a08ee81c1")
+		(property "Reference" "#PWR4001"
+			(at 43.18 248.92 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 254 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.15 1.15)
+				)
+			)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(reference "#PWR4001")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 66.04 234.95)
+			(xy 81.28 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9da92462-6f99-41d0-9cea-9e16e3f7406e")
+	)
+	(wire
+		(pts
+			(xy 81.28 234.95)
+			(xy 95.25 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03b44127-b29b-47d9-a254-c0ea3b8aa678")
+	)
+	(junction
+		(at 81.28 234.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f760d96-ec80-4c08-a93e-f9af83edae1b")
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 81.28 246.38 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3463e80b-c780-4e94-bab1-6816fc5c80b7")
+		(property "Reference" "R400"
+			(at 88.9 245.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 88.9 247.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 81.28 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 246.38 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 246.38 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25803"
+			(at 81.28 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Assembly" "Factory SMT"
+			(at 81.28 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 81.28 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "0603WAF1003T5E"
+			(at 81.28 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.05 1.05)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "519085ee-ce7f-4ad7-8a5b-d6b620f26c6c")
+		)
+		(pin "2"
+			(uuid "2205302c-eb02-4aa1-b9b5-307a173b25db")
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(reference "R400")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 81.28 234.95)
+			(xy 81.28 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d125160a-f9f2-454c-8581-c72414b1d31d")
+	)
+	(wire
+		(pts
+			(xy 81.28 248.92)
+			(xy 81.28 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cabe330-7299-4963-a725-1b705c54198c")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 81.28 252.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(uuid "ac4e9de2-1d66-4b11-b65a-21ba5471c81b")
+		(property "Reference" "#PWR4002"
+			(at 81.28 252.73 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 81.28 257.81 0)
+			(hide yes)
+			(effects
+				(font
+					(size 1.15 1.15)
+				)
+			)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(reference "#PWR4002")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(bus_alias "USB_DATA"
+		(members "USB_DP" "USB_DM")
+	)
+	(bus_alias "CC_STATUS"
+		(members "CC_OUT1" "CC_OUT2")
+	)
+	(text "Keyboard system schematic"
+		(exclude_from_sim no)
+		(at 19.05 19.05 0)
+		(effects
+			(font
+				(size 4.1 4.1)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "07d3e34d-ca8d-41a9-a18c-71a48ead99cf")
+	)
+	(sheet
+		(at 20.32 50.8)
+		(size 74.93 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "95938abe-13e3-49dd-b52a-5dc887152004")
+		(property "Sheetname" "USB-C input"
+			(at 23.495 56.261 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "usb-input.kicad_sch"
+			(at 20.32 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "4")
+				)
+			)
+		)
+		(property "Function" "FUSB303B  /  hot-plug protection"
+			(at 23.495 63.5 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_VBUS" output
+			(at 95.25 85.09 0)
+			(uuid "5ab740e1-241b-4e41-b700-36e9a8c2d691")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "{USB_DATA}" bidirectional
+			(at 95.25 69.85 0)
+			(uuid "2e5ef0e9-d2d8-4661-a6b5-74d8de91374f")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "{CC_STATUS}" output
+			(at 95.25 77.47 0)
+			(uuid "c3f8c890-cc62-4ae5-a585-a8b288a4af07")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+	)
+	(text "04"
+		(exclude_from_sim no)
+		(at 86.36 56.134 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "34c2dbc9-130f-414c-a929-21186148ca4d")
+	)
+	(sheet
+		(at 123.19 50.8)
+		(size 81.28 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "95938abe-13e3-49dd-b52a-5dc887152008")
+		(property "Sheetname" "USB current limiter"
+			(at 126.365 56.261 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "usb-limit.kicad_sch"
+			(at 123.19 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "8")
+				)
+			)
+		)
+		(property "Function" "Power grant and suspend control"
+			(at 126.365 63.5 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_VBUS" input
+			(at 123.19 85.09 180)
+			(uuid "27588897-5521-4528-8bcf-8a8d3bc4ad19")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS_LIMITED" output
+			(at 204.47 76.2 0)
+			(uuid "28665c33-cb5b-4142-b4ad-93788fc154f4")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "LOGIC_IN" output
+			(at 204.47 86.36 0)
+			(uuid "8c65e467-0852-4b51-b919-45a5569a0ef8")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "SYS" input
+			(at 123.19 91.44 180)
+			(uuid "5626e384-d148-4068-9c9b-017ecbd8a4db")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB_DATA}" input
+			(at 123.19 69.85 180)
+			(uuid "fa5f9d90-73ae-4c93-86b2-298e954172dc")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "{CC_STATUS}" input
+			(at 123.19 77.47 180)
+			(uuid "d4e9aa56-2a38-4443-86f7-43d9c90aefa3")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+	)
+	(text "08"
+		(exclude_from_sim no)
+		(at 195.58 56.134 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "ae811ecd-0c00-4e88-ad75-f78cbce43896")
+	)
+	(sheet
+		(at 237.49 50.8)
+		(size 72.39 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "95938abe-13e3-49dd-b52a-5dc887152006")
+		(property "Sheetname" "Charger and pack"
+			(at 240.665 56.261 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "charger.kicad_sch"
+			(at 237.49 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "6")
+				)
+			)
+		)
+		(property "Function" "BQ25622  /  1-cell Li-ion"
+			(at 240.665 63.5 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS_LIMITED" input
+			(at 237.49 76.2 180)
+			(uuid "8fddf399-d529-4d32-beca-407fa8fea93f")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "SYS" output
+			(at 309.88 76.2 0)
+			(uuid "2068ab50-ea9d-4098-9aa5-b67840cee886")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+	)
+	(text "06"
+		(exclude_from_sim no)
+		(at 300.99 56.134 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "ac6f8e73-8a38-43e5-aa7b-457897b6068b")
+	)
+	(sheet
+		(at 339.09 50.8)
+		(size 62.23 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "95938abe-13e3-49dd-b52a-5dc887152009")
+		(property "Sheetname" "RGB supply"
+			(at 342.265 56.261 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "rgb-power.kicad_sch"
+			(at 339.09 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "9")
+				)
+			)
+		)
+		(property "Function" "Switched 5 V boost"
+			(at 342.265 63.5 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "SYS" input
+			(at 339.09 76.2 180)
+			(uuid "f791edcb-6cdb-4194-99db-81e835210fad")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED_5V" output
+			(at 401.32 85.09 0)
+			(uuid "033e6dd0-57ba-4511-bfa0-aa202091fba4")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+	)
+	(text "09"
+		(exclude_from_sim no)
+		(at 392.43 56.134 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "862d564c-bb96-4755-a52a-ffb1a4ade6ee")
+	)
+	(sheet
+		(at 20.32 128.27)
+		(size 74.93 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "95938abe-13e3-49dd-b52a-5dc887152002")
+		(property "Sheetname" "Key matrix"
+			(at 23.495 133.731 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "matrix.kicad_sch"
+			(at 20.32 185.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "2")
+				)
+			)
+		)
+		(property "Function" "67 switches  /  5 × 15 scan"
+			(at 23.495 140.97 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "C[0..14]" input
+			(at 95.25 162.56 0)
+			(uuid "2560ccc9-da6d-4c33-9781-47245720edac")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "R[0..4]" output
+			(at 95.25 170.18 0)
+			(uuid "e2a3ce91-6a2a-4688-820a-ca4cc66daadf")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+	)
+	(text "02"
+		(exclude_from_sim no)
+		(at 86.36 133.604 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "6c404c08-b77a-4060-9c1f-00e58001ac6d")
+	)
+	(sheet
+		(at 123.19 128.27)
+		(size 81.28 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "95938abe-13e3-49dd-b52a-5dc887152003")
+		(property "Sheetname" "BLE and USB controller"
+			(at 126.365 133.731 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "controller.kicad_sch"
+			(at 123.19 185.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "3")
+				)
+			)
+		)
+		(property "Function" "BMD-340  /  nRF52840"
+			(at 126.365 140.97 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "C[0..14]" output
+			(at 123.19 162.56 180)
+			(uuid "4f46b850-b52d-4f24-8297-93d461dbce5f")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "R[0..4]" input
+			(at 123.19 170.18 180)
+			(uuid "42c54ab0-f765-4aca-9de2-73c15080a735")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "MODE_SEL" input
+			(at 123.19 177.8 180)
+			(uuid "b5473ef5-f411-4ef3-a823-3814068ac2f8")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_VBUS" input
+			(at 204.47 147.32 0)
+			(uuid "696ec7c4-8c8b-412e-acca-85b1446acc7c")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "3V3" input
+			(at 204.47 154.94 0)
+			(uuid "7b567447-91d2-4125-9378-bafb4b61a4aa")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "RGB_DATA" output
+			(at 204.47 171.45 0)
+			(uuid "f5b68e86-5d33-4258-bc09-8a0d4f12ea8e")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "{USB_DATA}" bidirectional
+			(at 123.19 147.32 180)
+			(uuid "ff31a148-aca0-4bd7-b9ea-cfb622b4c548")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "{CC_STATUS}" input
+			(at 123.19 154.94 180)
+			(uuid "87a3b78e-12aa-4d59-91c1-2ac7c7b8e034")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "{UI}" bidirectional
+			(at 204.47 179.07 0)
+			(uuid "c0c701fe-108b-4406-83c4-8e53d3397b0d")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+	)
+	(text "03"
+		(exclude_from_sim no)
+		(at 195.58 133.604 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "8bde3908-f651-44be-8275-a96a76379f3a")
+	)
+	(sheet
+		(at 237.49 128.27)
+		(size 72.39 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "95938abe-13e3-49dd-b52a-5dc887152007")
+		(property "Sheetname" "Logic supply"
+			(at 240.665 133.731 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "rails.kicad_sch"
+			(at 237.49 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "7")
+				)
+			)
+		)
+		(property "Function" "Always-on 3.3 V buck-boost"
+			(at 240.665 140.97 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "LOGIC_IN" input
+			(at 309.88 153.67 0)
+			(uuid "bff81824-ceaf-4a3f-a3ed-82b6c06db6df")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "3V3" output
+			(at 237.49 154.94 180)
+			(uuid "b13fe64e-0f96-415c-9b78-142c4e8c5ee9")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+	)
+	(text "07"
+		(exclude_from_sim no)
+		(at 300.99 133.604 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "4a428f6b-211e-4dfc-8638-b51cf9225b18")
+	)
+	(sheet
+		(at 339.09 128.27)
+		(size 62.23 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "95938abe-13e3-49dd-b52a-5dc887152005")
+		(property "Sheetname" "RGB lighting"
+			(at 342.265 133.731 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "lighting.kicad_sch"
+			(at 339.09 185.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "5")
+				)
+			)
+		)
+		(property "Function" "67 pixels  /  SK6812MINI-E"
+			(at 342.265 140.97 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED_5V" input
+			(at 401.32 154.94 0)
+			(uuid "7e609981-fa87-4bae-a85c-c1b29ef6d863")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "RGB_DATA" input
+			(at 339.09 171.45 180)
+			(uuid "16b743c8-92b5-449d-ad8a-4dd86520380d")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+	)
+	(text "05"
+		(exclude_from_sim no)
+		(at 392.43 133.604 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "37b6e6c2-89a9-42dd-9ebe-381214dea1e2")
+	)
+	(text "Power path"
+		(exclude_from_sim no)
+		(at 20.32 39.37 0)
+		(effects
+			(font
+				(size 2.65 2.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "d64ec8d2-e58b-4ada-9c95-d84adfda83dd")
+	)
+	(text "Keys, lighting and feedback"
+		(exclude_from_sim no)
+		(at 20.32 116.84 0)
+		(effects
+			(font
+				(size 2.65 2.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "477e0603-86db-4f37-b7e5-9026ba5403f2")
+	)
+	(wire
+		(pts
+			(xy 95.25 85.09)
+			(xy 105.41 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5fcb0f8-a923-4718-a167-96bbdcd3852e")
+	)
+	(wire
+		(pts
+			(xy 105.41 85.09)
+			(xy 123.19 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91c43ea7-7641-483b-a039-1ebcd62ad979")
+	)
+	(label "USB_VBUS"
+		(at 106.68 85.09 0)
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify left bottom)
+		)
+		(uuid "3e1e8496-f85f-4ce0-bc88-692c7097dcb2")
+	)
+	(wire
+		(pts
+			(xy 204.47 76.2)
+			(xy 237.49 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab78928d-b43b-4ff5-8fb0-68ebcf7695a1")
+	)
+	(wire
+		(pts
+			(xy 309.88 76.2)
+			(xy 321.31 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59842420-e223-4d8a-b88b-fcbcb1c1f950")
+	)
+	(label "SYS"
+		(at 321.31 76.2 0)
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify left bottom)
+		)
+		(uuid "51db03cb-8ae8-463e-80dc-d2dfb8c26f67")
+	)
+	(wire
+		(pts
+			(xy 123.19 91.44)
+			(xy 113.03 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd30b2bd-58c1-449d-a94f-0152805bdcab")
+	)
+	(label "SYS"
+		(at 113.03 91.44 0)
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify left bottom)
+		)
+		(uuid "664716fd-db91-486a-96b4-3e38dfed23ee")
+	)
+	(wire
+		(pts
+			(xy 204.47 86.36)
+			(xy 226.06 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9972333-0ca7-41b0-b0fa-52bc89c39c50")
+	)
+	(wire
+		(pts
+			(xy 226.06 86.36)
+			(xy 226.06 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a9ada07-0afa-463b-a550-7991cecd6c0f")
+	)
+	(wire
+		(pts
+			(xy 226.06 102.87)
+			(xy 320.04 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d9eddf6-598b-4969-981e-d4b77ae5c464")
+	)
+	(wire
+		(pts
+			(xy 320.04 102.87)
+			(xy 320.04 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0448683-906f-4495-8b10-dc6461554cf8")
+	)
+	(wire
+		(pts
+			(xy 320.04 153.67)
+			(xy 309.88 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b39f1406-304d-4d56-8d42-e4b0f649865c")
+	)
+	(label "LOGIC_IN"
+		(at 260.35 102.87 0)
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify left bottom)
+		)
+		(uuid "f33d15ec-cdaf-4ee3-aa76-bf9e4dce94e2")
+	)
+	(wire
+		(pts
+			(xy 401.32 85.09)
+			(xy 405.13 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72fbe12e-35a6-45a8-8b88-0b868870bf8f")
+	)
+	(wire
+		(pts
+			(xy 405.13 85.09)
+			(xy 405.13 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "784f3d8c-a67e-47f3-bba4-979634d71fa6")
+	)
+	(wire
+		(pts
+			(xy 405.13 154.94)
+			(xy 401.32 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7709a2a5-11ef-4f88-a7a0-b173366f04b9")
+	)
+	(bus
+		(pts
+			(xy 95.25 162.56)
+			(xy 123.19 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "529b6f40-8259-4fc6-b658-4c35669a654e")
+	)
+	(bus
+		(pts
+			(xy 95.25 170.18)
+			(xy 123.19 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d21c3e70-f781-4d78-89c2-a967ba4a7a5b")
+	)
+	(bus
+		(pts
+			(xy 95.25 69.85)
+			(xy 101.6 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb679d40-bfe1-40c6-ac3e-c53ee7041599")
+	)
+	(bus
+		(pts
+			(xy 101.6 69.85)
+			(xy 123.19 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70d4f459-1b9f-4283-8c5b-ecce44060f36")
+	)
+	(bus
+		(pts
+			(xy 101.6 69.85)
+			(xy 101.6 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70713c6c-c607-47a3-a9ea-7298f18775d9")
+	)
+	(bus
+		(pts
+			(xy 101.6 147.32)
+			(xy 123.19 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14a44081-ee3f-4c08-aa6e-5d2cdf6e95e4")
+	)
+	(junction
+		(at 101.6 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac002adb-7395-4c26-b793-947580e0dbde")
+	)
+	(bus
+		(pts
+			(xy 95.25 77.47)
+			(xy 109.22 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f30932a6-d634-46d2-a92e-8757d69df02a")
+	)
+	(bus
+		(pts
+			(xy 109.22 77.47)
+			(xy 123.19 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6fc840f-5c08-418d-aa7c-e4f62a3c7020")
+	)
+	(bus
+		(pts
+			(xy 109.22 77.47)
+			(xy 109.22 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d1cb758-777d-4e00-995d-41c28a58ab2d")
+	)
+	(bus
+		(pts
+			(xy 109.22 154.94)
+			(xy 123.19 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "818812ac-f137-4fe3-822d-507cb8606bdd")
+	)
+	(junction
+		(at 109.22 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1f04975-02bb-4b7e-9b97-f1b0e4d8d5e2")
+	)
+	(wire
+		(pts
+			(xy 204.47 154.94)
+			(xy 219.71 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cc5339c-2cab-4df5-bf64-91777b8154d2")
+	)
+	(wire
+		(pts
+			(xy 219.71 154.94)
+			(xy 237.49 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ac95764-3b9b-414c-b928-f28d26146120")
+	)
+	(wire
+		(pts
+			(xy 204.47 171.45)
+			(xy 339.09 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3109205-db7d-4b1f-afb2-ccf6f949929d")
+	)
+	(label "RGB_DATA"
+		(at 259.08 171.45 0)
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e058b6c-3059-44d8-9d24-d334784f0f18")
+	)
+	(wire
+		(pts
+			(xy 204.47 147.32)
+			(xy 222.25 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a645380b-58d3-4634-aa60-5643bdd84861")
+	)
+	(label "USB_VBUS"
+		(at 222.25 147.32 180)
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify right bottom)
+		)
+		(uuid "f8abbbaf-05af-4d3b-96fe-289ad09cfbc2")
+	)
+	(wire
+		(pts
+			(xy 123.19 177.8)
+			(xy 114.3 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45ad4ffb-d4a0-4e2b-8c95-42c079444c5e")
+	)
+	(wire
+		(pts
+			(xy 114.3 177.8)
+			(xy 114.3 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "919bf850-5be3-484d-8997-fd633566c92e")
+	)
+	(wire
+		(pts
+			(xy 114.3 234.95)
+			(xy 95.25 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b2e4030-fb39-49a4-b945-c75a52ebb7d6")
+	)
+	(label "MODE_SEL"
+		(at 99.06 234.95 0)
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify left bottom)
+		)
+		(uuid "9cd3bee9-e8e0-439b-bcc5-a225dac68bd9")
+	)
+	(text "Transport selector"
+		(exclude_from_sim no)
+		(at 20.32 201.93 0)
+		(effects
+			(font
+				(size 2.65 2.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "b47d840e-cff0-44f0-990d-e895c5d26b67")
+	)
+	(text "USB grounds MODE_SEL."
+		(exclude_from_sim no)
+		(at 20.32 262.89 0)
+		(effects
+			(font
+				(size 1.55 1.55)
+			)
+			(justify left)
+		)
+		(uuid "223ab275-f659-46a0-9dc7-40728967d8db")
+	)
+	(text "Bluetooth pulls it high through R401."
+		(exclude_from_sim no)
+		(at 20.32 269.24 0)
+		(effects
+			(font
+				(size 1.55 1.55)
+			)
+			(justify left)
+		)
+		(uuid "99c494f3-695d-42de-b212-c2224bbd7ed8")
+	)
+	(text "Control and status signals"
+		(exclude_from_sim no)
+		(at 320.04 195.58 0)
+		(effects
+			(font
+				(size 2.65 2.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "03d89bd2-c33f-4efb-9450-a588534237d6")
+	)
+	(text "USB data and source detection"
+		(exclude_from_sim no)
+		(at 320.04 205.74 0)
+		(effects
+			(font
+				(size 2.0 2.0)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "70c03003-02b3-44f5-ba41-4aabca0b4c00")
+	)
+	(text "USB_DATA = D+ and D−"
+		(exclude_from_sim no)
+		(at 320.04 211.455 0)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify left)
+		)
+		(uuid "0a45d4e7-1a61-440a-b07a-b61e871c706f")
+	)
+	(text "CC_STATUS = OUT1 and OUT2"
+		(exclude_from_sim no)
+		(at 320.04 216.535 0)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify left)
+		)
+		(uuid "c23891cf-5d0e-431c-bb1e-c338d4a451e5")
+	)
+	(text "Charger and haptics  ·  03 / 06 / 11"
+		(exclude_from_sim no)
+		(at 320.04 226.06 0)
+		(effects
+			(font
+				(size 2.0 2.0)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "9615d20b-7228-483f-8bc4-e0437eff71ef")
+	)
+	(text "PMIC_SCL, PMIC_SDA"
+		(exclude_from_sim no)
+		(at 320.04 231.775 0)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify left)
+		)
+		(uuid "35f6b39e-c746-4752-9a3d-6ec864cc71b9")
+	)
+	(text "CHG_INT_N, CHG_REQUEST"
+		(exclude_from_sim no)
+		(at 320.04 236.855 0)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify left)
+		)
+		(uuid "adf16ad7-9c71-4377-b207-dcfef5a8c206")
+	)
+	(text "USB current control  ·  03 / 08"
+		(exclude_from_sim no)
+		(at 124.46 257.81 0)
+		(effects
+			(font
+				(size 2.0 2.0)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "03c02e47-7dd3-4549-8da5-460f7139184b")
+	)
+	(text "HOST_500_OK, USB_SUSPEND"
+		(exclude_from_sim no)
+		(at 124.46 264.16 0)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify left)
+		)
+		(uuid "ede37159-15f3-4afe-8aa0-e67e1dca2249")
+	)
+	(text "RGB supply control  ·  03 / 09"
+		(exclude_from_sim no)
+		(at 214.63 257.81 0)
+		(effects
+			(font
+				(size 2.0 2.0)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "ca1a42ab-cc47-40e8-a92c-72d026dc9619")
+	)
+	(text "RGB_EN, RGB_PG"
+		(exclude_from_sim no)
+		(at 214.63 264.16 0)
+		(effects
+			(font
+				(size 1.8 1.8)
+			)
+			(justify left)
+		)
+		(uuid "f4d9c2e2-17b6-43d3-ac8b-8736a52b66e6")
+	)
+	(sheet
+		(at 123.19 198.12)
+		(size 81.28 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "72a382ff-3e1c-481f-ade2-a99be0992584")
+		(property "Sheetname" "Display and volume"
+			(at 126.365 203.581 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "controls.kicad_sch"
+			(at 123.19 236.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "10")
+				)
+			)
+		)
+		(property "Function" "I²C OLED  /  analog knob"
+			(at 126.365 210.82 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "3V3" input
+			(at 204.47 217.17 0)
+			(uuid "812ae69d-c478-4c76-a42a-d486ac3c94d2")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+		(pin "{UI}" bidirectional
+			(at 204.47 227.33 0)
+			(uuid "b8f1c043-57be-480f-9dd1-6f61e9677ce0")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+	)
+	(bus_alias "UI"
+		(members "UI_SCL" "UI_SDA" "UI_EN" "POT_EXC" "VOLUME_ADC")
+	)
+	(bus
+		(pts
+			(xy 204.47 179.07)
+			(xy 213.36 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17bfd744-7f5a-44b0-ac3a-124c04d3e007")
+	)
+	(bus
+		(pts
+			(xy 213.36 179.07)
+			(xy 213.36 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a804af1-9053-4943-ad2d-dfb7b1ba0dc2")
+	)
+	(bus
+		(pts
+			(xy 213.36 227.33)
+			(xy 204.47 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a076808-4a6f-4a18-9e62-75fe0c111f25")
+	)
+	(junction
+		(at 219.71 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fffc0b27-5945-4bcb-8483-39f54f57b5d7")
+	)
+	(wire
+		(pts
+			(xy 219.71 154.94)
+			(xy 219.71 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92b5baed-2c1c-49cd-8bea-bd47df5ea199")
+	)
+	(wire
+		(pts
+			(xy 219.71 217.17)
+			(xy 204.47 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82461d97-469b-4e00-832c-689aeffa690e")
+	)
+	(text "10"
+		(exclude_from_sim no)
+		(at 195.58 203.454 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "063933b9-2294-4e12-8dcb-91b326963d83")
+	)
+	(text "UI: display bus, power control and knob sense"
+		(exclude_from_sim no)
+		(at 124.46 243.84 0)
+		(effects
+			(font
+				(size 1.45 1.45)
+			)
+			(justify left)
+		)
+		(uuid "792b53c1-687b-459c-9726-af6db27efe9e")
+	)
+	(sheet
+		(at 237.49 198.12)
+		(size 72.39 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.38)
+			(type solid)
+			(color 44 86 101 1)
+		)
+		(fill
+			(color 246 250 250 1)
+		)
+		(uuid "68b31e99-a73b-4c9e-a09f-b52417317ae0")
+		(property "Sheetname" "WASD haptics"
+			(at 240.665 203.581 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.65 2.65)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "haptics.kicad_sch"
+			(at 237.49 236.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.1 1.1)
+				)
+				(justify left)
+			)
+			(hide yes)
+		)
+		(instances
+			(project "keyboard"
+				(path "/95938abe-13e3-49dd-b52a-5dc887152001"
+					(page "11")
+				)
+			)
+		)
+		(property "Function" "I²C driver  /  Z-axis actuator"
+			(at 240.665 210.82 0)
+			(effects
+				(font
+					(size 1.72 1.72)
+				)
+				(justify left)
+			)
+		)
+		(pin "3V3" input
+			(at 237.49 224.79 180)
+			(uuid "12a6b1e8-654b-48b3-a93b-64c398d67d00")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify left)
+			)
+		)
+		(pin "SYS" input
+			(at 309.88 218.44 0)
+			(uuid "5967c4a4-419a-4f60-9730-5b3be491497b")
+			(effects
+				(font
+					(size 1.73 1.73)
+				)
+				(justify right)
+			)
+		)
+	)
+	(junction
+		(at 219.71 217.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08f87254-be65-461d-8814-03d4ddb4a7e9")
+	)
+	(wire
+		(pts
+			(xy 219.71 217.17)
+			(xy 219.71 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fbea04b-6181-4ab9-9568-ebb2eac20701")
+	)
+	(wire
+		(pts
+			(xy 219.71 224.79)
+			(xy 237.49 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcf00d35-b250-4eca-a79b-f1a7cbf7b51f")
+	)
+	(text "11"
+		(exclude_from_sim no)
+		(at 300.99 203.454 0)
+		(effects
+			(font
+				(size 1.65 1.65)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "756ba5b7-d9a2-4f19-bfae-0d2be9344a0e")
+	)
+	(wire
+		(pts
+			(xy 321.31 76.2)
+			(xy 327.66 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2f0e428-3e6d-428d-9ff4-c49b8059ec4e")
+	)
+	(wire
+		(pts
+			(xy 327.66 76.2)
+			(xy 339.09 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a7e073f-9815-4b53-a2c7-8f59e7c7d72c")
+	)
+	(junction
+		(at 327.66 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad9ff1da-20ff-489a-88de-1502d066a2be")
+	)
+	(wire
+		(pts
+			(xy 327.66 76.2)
+			(xy 327.66 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad79da80-939e-4972-b572-537d2213297c")
+	)
+	(wire
+		(pts
+			(xy 327.66 189.23)
+			(xy 314.96 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16b50d09-902d-4538-8b71-d84e2002b606")
+	)
+	(wire
+		(pts
+			(xy 314.96 189.23)
+			(xy 314.96 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2491175a-77bd-40e5-96fc-5020cab4bf2c")
+	)
+	(wire
+		(pts
+			(xy 314.96 218.44)
+			(xy 309.88 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80fcec12-7bc2-4df4-a489-934415ba6231")
+	)
+	(text "HAPTIC_EN  ·  P1.04"
+		(exclude_from_sim no)
+		(at 256.54 226.06 0)
+		(effects
+			(font
+				(size 1.45 1.45)
+			)
+			(justify left)
+		)
+		(uuid "3e69f9b2-211b-47df-a9dd-19f27c90281a")
+	)
+	(text "PMIC_SCL  /  PMIC_SDA"
+		(exclude_from_sim no)
+		(at 256.54 231.775 0)
+		(effects
+			(font
+				(size 1.38 1.38)
+			)
+			(justify left)
+		)
+		(uuid "21557ce0-37e9-44a9-a521-6d6757294253")
+	)
+)

@@ -1,0 +1,8 @@
+(fp_lib_table (version 7)
+ (lib (name "Keyboard_RF")(type "KiCad")(uri "${KIPRJMOD}/Keyboard_RF.pretty")(options "")(descr "Keyboard radio module"))
+(lib (name "Charger")(type "KiCad")(uri "${KIPRJMOD}/Charger.pretty")(options "")(descr "Keyboard charging circuit"))
+(lib (name "Keyboard_Power")(type "KiCad")(uri "${KIPRJMOD}/Keyboard_Power.pretty")(options "")(descr "Keyboard regulator magnetics"))
+(lib (name "Keyboard_MX")(type "KiCad")(uri "${KIPRJMOD}/Keyboard_MX.pretty")(options "")(descr "MX switches with north LED silkscreen clearance"))
+(lib (name "Keyboard_LED")(type "KiCad")(uri "${KIPRJMOD}/Keyboard_LED.pretty")(options "")(descr "Reverse-mount LED with routed aperture"))
+(lib (name "Keyboard_Controls")(type "KiCad")(uri "${KIPRJMOD}/Keyboard_Controls.pretty")(options "")(descr "Keyboard user-interface connectors"))
+)

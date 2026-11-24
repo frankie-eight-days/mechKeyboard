@@ -1,0 +1,1251 @@
+ref,pin,symbol_name,symbol_electrical_type,net
+R400,1,,passive,/MODE_SEL
+R400,2,,passive,GND
+R401,1,,passive,Net-(SW400-C)
+R401,2,,passive,3V3
+SW400,2,B,passive,/MODE_SEL
+SW400,1,A,passive,GND
+SW400,3,C,passive,Net-(SW400-C)
+D1,1,K,passive,/BLE and USB controller/R0
+D1,2,A,passive,Net-(D1-A)
+D2,1,K,passive,/BLE and USB controller/R0
+D2,2,A,passive,Net-(D2-A)
+D3,1,K,passive,/BLE and USB controller/R0
+D3,2,A,passive,Net-(D3-A)
+D4,1,K,passive,/BLE and USB controller/R0
+D4,2,A,passive,Net-(D4-A)
+D5,1,K,passive,/BLE and USB controller/R0
+D5,2,A,passive,Net-(D5-A)
+D6,1,K,passive,/BLE and USB controller/R0
+D6,2,A,passive,Net-(D6-A)
+D7,1,K,passive,/BLE and USB controller/R0
+D7,2,A,passive,Net-(D7-A)
+D8,1,K,passive,/BLE and USB controller/R0
+D8,2,A,passive,Net-(D8-A)
+D9,1,K,passive,/BLE and USB controller/R0
+D9,2,A,passive,Net-(D9-A)
+D10,1,K,passive,/BLE and USB controller/R0
+D10,2,A,passive,Net-(D10-A)
+D11,1,K,passive,/BLE and USB controller/R0
+D11,2,A,passive,Net-(D11-A)
+D12,1,K,passive,/BLE and USB controller/R0
+D12,2,A,passive,Net-(D12-A)
+D13,1,K,passive,/BLE and USB controller/R0
+D13,2,A,passive,Net-(D13-A)
+D14,1,K,passive,/BLE and USB controller/R0
+D14,2,A,passive,Net-(D14-A)
+D15,1,K,passive,/BLE and USB controller/R0
+D15,2,A,passive,Net-(D15-A)
+D16,1,K,passive,/BLE and USB controller/R1
+D16,2,A,passive,Net-(D16-A)
+D17,1,K,passive,/BLE and USB controller/R1
+D17,2,A,passive,Net-(D17-A)
+D18,1,K,passive,/BLE and USB controller/R1
+D18,2,A,passive,Net-(D18-A)
+D19,1,K,passive,/BLE and USB controller/R1
+D19,2,A,passive,Net-(D19-A)
+D20,1,K,passive,/BLE and USB controller/R1
+D20,2,A,passive,Net-(D20-A)
+D21,1,K,passive,/BLE and USB controller/R1
+D21,2,A,passive,Net-(D21-A)
+D22,1,K,passive,/BLE and USB controller/R1
+D22,2,A,passive,Net-(D22-A)
+D23,1,K,passive,/BLE and USB controller/R1
+D23,2,A,passive,Net-(D23-A)
+D24,1,K,passive,/BLE and USB controller/R1
+D24,2,A,passive,Net-(D24-A)
+D25,1,K,passive,/BLE and USB controller/R1
+D25,2,A,passive,Net-(D25-A)
+D26,1,K,passive,/BLE and USB controller/R1
+D26,2,A,passive,Net-(D26-A)
+D27,1,K,passive,/BLE and USB controller/R1
+D27,2,A,passive,Net-(D27-A)
+D28,1,K,passive,/BLE and USB controller/R1
+D28,2,A,passive,Net-(D28-A)
+D29,1,K,passive,/BLE and USB controller/R1
+D29,2,A,passive,Net-(D29-A)
+D30,1,K,passive,/BLE and USB controller/R1
+D30,2,A,passive,Net-(D30-A)
+D31,1,K,passive,/BLE and USB controller/R2
+D31,2,A,passive,Net-(D31-A)
+D32,1,K,passive,/BLE and USB controller/R2
+D32,2,A,passive,Net-(D32-A)
+D33,1,K,passive,/BLE and USB controller/R2
+D33,2,A,passive,Net-(D33-A)
+D34,1,K,passive,/BLE and USB controller/R2
+D34,2,A,passive,Net-(D34-A)
+D35,1,K,passive,/BLE and USB controller/R2
+D35,2,A,passive,Net-(D35-A)
+D36,1,K,passive,/BLE and USB controller/R2
+D36,2,A,passive,Net-(D36-A)
+D37,1,K,passive,/BLE and USB controller/R2
+D37,2,A,passive,Net-(D37-A)
+D38,1,K,passive,/BLE and USB controller/R2
+D38,2,A,passive,Net-(D38-A)
+D39,1,K,passive,/BLE and USB controller/R2
+D39,2,A,passive,Net-(D39-A)
+D40,1,K,passive,/BLE and USB controller/R2
+D40,2,A,passive,Net-(D40-A)
+D41,1,K,passive,/BLE and USB controller/R2
+D41,2,A,passive,Net-(D41-A)
+D42,1,K,passive,/BLE and USB controller/R2
+D42,2,A,passive,Net-(D42-A)
+D43,1,K,passive,/BLE and USB controller/R2
+D43,2,A,passive,Net-(D43-A)
+D44,1,K,passive,/BLE and USB controller/R2
+D44,2,A,passive,Net-(D44-A)
+D45,1,K,passive,/BLE and USB controller/R3
+D45,2,A,passive,Net-(D45-A)
+D46,1,K,passive,/BLE and USB controller/R3
+D46,2,A,passive,Net-(D46-A)
+D47,1,K,passive,/BLE and USB controller/R3
+D47,2,A,passive,Net-(D47-A)
+D48,1,K,passive,/BLE and USB controller/R3
+D48,2,A,passive,Net-(D48-A)
+D49,1,K,passive,/BLE and USB controller/R3
+D49,2,A,passive,Net-(D49-A)
+D50,1,K,passive,/BLE and USB controller/R3
+D50,2,A,passive,Net-(D50-A)
+D51,1,K,passive,/BLE and USB controller/R3
+D51,2,A,passive,Net-(D51-A)
+D52,1,K,passive,/BLE and USB controller/R3
+D52,2,A,passive,Net-(D52-A)
+D53,1,K,passive,/BLE and USB controller/R3
+D53,2,A,passive,Net-(D53-A)
+D54,1,K,passive,/BLE and USB controller/R3
+D54,2,A,passive,Net-(D54-A)
+D55,1,K,passive,/BLE and USB controller/R3
+D55,2,A,passive,Net-(D55-A)
+D56,1,K,passive,/BLE and USB controller/R3
+D56,2,A,passive,Net-(D56-A)
+D57,1,K,passive,/BLE and USB controller/R3
+D57,2,A,passive,Net-(D57-A)
+D58,1,K,passive,/BLE and USB controller/R3
+D58,2,A,passive,Net-(D58-A)
+D59,1,K,passive,/BLE and USB controller/R4
+D59,2,A,passive,Net-(D59-A)
+D60,1,K,passive,/BLE and USB controller/R4
+D60,2,A,passive,Net-(D60-A)
+D61,1,K,passive,/BLE and USB controller/R4
+D61,2,A,passive,Net-(D61-A)
+D62,1,K,passive,/BLE and USB controller/R4
+D62,2,A,passive,Net-(D62-A)
+D63,1,K,passive,/BLE and USB controller/R4
+D63,2,A,passive,Net-(D63-A)
+D64,1,K,passive,/BLE and USB controller/R4
+D64,2,A,passive,Net-(D64-A)
+D65,1,K,passive,/BLE and USB controller/R4
+D65,2,A,passive,Net-(D65-A)
+D66,1,K,passive,/BLE and USB controller/R4
+D66,2,A,passive,Net-(D66-A)
+D67,1,K,passive,/BLE and USB controller/R4
+D67,2,A,passive,Net-(D67-A)
+SW1,1,1,passive,/BLE and USB controller/C0
+SW1,2,2,passive,Net-(D1-A)
+SW2,1,1,passive,/BLE and USB controller/C1
+SW2,2,2,passive,Net-(D2-A)
+SW3,1,1,passive,/BLE and USB controller/C2
+SW3,2,2,passive,Net-(D3-A)
+SW4,1,1,passive,/BLE and USB controller/C3
+SW4,2,2,passive,Net-(D4-A)
+SW5,1,1,passive,/BLE and USB controller/C4
+SW5,2,2,passive,Net-(D5-A)
+SW6,1,1,passive,/BLE and USB controller/C5
+SW6,2,2,passive,Net-(D6-A)
+SW7,1,1,passive,/BLE and USB controller/C6
+SW7,2,2,passive,Net-(D7-A)
+SW8,1,1,passive,/BLE and USB controller/C7
+SW8,2,2,passive,Net-(D8-A)
+SW9,1,1,passive,/BLE and USB controller/C8
+SW9,2,2,passive,Net-(D9-A)
+SW10,1,1,passive,/BLE and USB controller/C9
+SW10,2,2,passive,Net-(D10-A)
+SW11,1,1,passive,/BLE and USB controller/C10
+SW11,2,2,passive,Net-(D11-A)
+SW12,1,1,passive,/BLE and USB controller/C11
+SW12,2,2,passive,Net-(D12-A)
+SW13,1,1,passive,/BLE and USB controller/C12
+SW13,2,2,passive,Net-(D13-A)
+SW14,1,1,passive,/BLE and USB controller/C13
+SW14,2,2,passive,Net-(D14-A)
+SW15,1,1,passive,/BLE and USB controller/C14
+SW15,2,2,passive,Net-(D15-A)
+SW16,1,1,passive,/BLE and USB controller/C0
+SW16,2,2,passive,Net-(D16-A)
+SW17,1,1,passive,/BLE and USB controller/C1
+SW17,2,2,passive,Net-(D17-A)
+SW18,1,1,passive,/BLE and USB controller/C2
+SW18,2,2,passive,Net-(D18-A)
+SW19,1,1,passive,/BLE and USB controller/C3
+SW19,2,2,passive,Net-(D19-A)
+SW20,1,1,passive,/BLE and USB controller/C4
+SW20,2,2,passive,Net-(D20-A)
+SW21,1,1,passive,/BLE and USB controller/C5
+SW21,2,2,passive,Net-(D21-A)
+SW22,1,1,passive,/BLE and USB controller/C6
+SW22,2,2,passive,Net-(D22-A)
+SW23,1,1,passive,/BLE and USB controller/C7
+SW23,2,2,passive,Net-(D23-A)
+SW24,1,1,passive,/BLE and USB controller/C8
+SW24,2,2,passive,Net-(D24-A)
+SW25,1,1,passive,/BLE and USB controller/C9
+SW25,2,2,passive,Net-(D25-A)
+SW26,1,1,passive,/BLE and USB controller/C10
+SW26,2,2,passive,Net-(D26-A)
+SW27,1,1,passive,/BLE and USB controller/C11
+SW27,2,2,passive,Net-(D27-A)
+SW28,1,1,passive,/BLE and USB controller/C12
+SW28,2,2,passive,Net-(D28-A)
+SW29,1,1,passive,/BLE and USB controller/C13
+SW29,2,2,passive,Net-(D29-A)
+SW30,1,1,passive,/BLE and USB controller/C14
+SW30,2,2,passive,Net-(D30-A)
+SW31,1,1,passive,/BLE and USB controller/C0
+SW31,2,2,passive,Net-(D31-A)
+SW32,1,1,passive,/BLE and USB controller/C1
+SW32,2,2,passive,Net-(D32-A)
+SW33,1,1,passive,/BLE and USB controller/C2
+SW33,2,2,passive,Net-(D33-A)
+SW34,1,1,passive,/BLE and USB controller/C3
+SW34,2,2,passive,Net-(D34-A)
+SW35,1,1,passive,/BLE and USB controller/C4
+SW35,2,2,passive,Net-(D35-A)
+SW36,1,1,passive,/BLE and USB controller/C5
+SW36,2,2,passive,Net-(D36-A)
+SW37,1,1,passive,/BLE and USB controller/C6
+SW37,2,2,passive,Net-(D37-A)
+SW38,1,1,passive,/BLE and USB controller/C7
+SW38,2,2,passive,Net-(D38-A)
+SW39,1,1,passive,/BLE and USB controller/C8
+SW39,2,2,passive,Net-(D39-A)
+SW40,1,1,passive,/BLE and USB controller/C9
+SW40,2,2,passive,Net-(D40-A)
+SW41,1,1,passive,/BLE and USB controller/C10
+SW41,2,2,passive,Net-(D41-A)
+SW42,1,1,passive,/BLE and USB controller/C11
+SW42,2,2,passive,Net-(D42-A)
+SW43,1,1,passive,/BLE and USB controller/C12
+SW43,2,2,passive,Net-(D43-A)
+SW44,1,1,passive,/BLE and USB controller/C13
+SW44,2,2,passive,Net-(D44-A)
+SW45,1,1,passive,/BLE and USB controller/C0
+SW45,2,2,passive,Net-(D45-A)
+SW46,1,1,passive,/BLE and USB controller/C1
+SW46,2,2,passive,Net-(D46-A)
+SW47,1,1,passive,/BLE and USB controller/C2
+SW47,2,2,passive,Net-(D47-A)
+SW48,1,1,passive,/BLE and USB controller/C3
+SW48,2,2,passive,Net-(D48-A)
+SW49,1,1,passive,/BLE and USB controller/C4
+SW49,2,2,passive,Net-(D49-A)
+SW50,1,1,passive,/BLE and USB controller/C5
+SW50,2,2,passive,Net-(D50-A)
+SW51,1,1,passive,/BLE and USB controller/C6
+SW51,2,2,passive,Net-(D51-A)
+SW52,1,1,passive,/BLE and USB controller/C7
+SW52,2,2,passive,Net-(D52-A)
+SW53,1,1,passive,/BLE and USB controller/C8
+SW53,2,2,passive,Net-(D53-A)
+SW54,1,1,passive,/BLE and USB controller/C9
+SW54,2,2,passive,Net-(D54-A)
+SW55,1,1,passive,/BLE and USB controller/C10
+SW55,2,2,passive,Net-(D55-A)
+SW56,1,1,passive,/BLE and USB controller/C11
+SW56,2,2,passive,Net-(D56-A)
+SW57,1,1,passive,/BLE and USB controller/C12
+SW57,2,2,passive,Net-(D57-A)
+SW58,1,1,passive,/BLE and USB controller/C13
+SW58,2,2,passive,Net-(D58-A)
+SW59,1,1,passive,/BLE and USB controller/C0
+SW59,2,2,passive,Net-(D59-A)
+SW60,1,1,passive,/BLE and USB controller/C1
+SW60,2,2,passive,Net-(D60-A)
+SW61,1,1,passive,/BLE and USB controller/C2
+SW61,2,2,passive,Net-(D61-A)
+SW62,1,1,passive,/BLE and USB controller/C3
+SW62,2,2,passive,Net-(D62-A)
+SW63,1,1,passive,/BLE and USB controller/C4
+SW63,2,2,passive,Net-(D63-A)
+SW64,1,1,passive,/BLE and USB controller/C5
+SW64,2,2,passive,Net-(D64-A)
+SW65,1,1,passive,/BLE and USB controller/C6
+SW65,2,2,passive,Net-(D65-A)
+SW66,1,1,passive,/BLE and USB controller/C7
+SW66,2,2,passive,Net-(D66-A)
+SW67,1,1,passive,/BLE and USB controller/C8
+SW67,2,2,passive,Net-(D67-A)
+C100,1,,passive,/BLE and USB controller/XL1
+C100,2,,passive,GND
+C101,1,,passive,/BLE and USB controller/XL2
+C101,2,,passive,GND
+C102,1,,passive,3V3
+C102,2,,passive,GND
+J100,2,SWDIO,passive,/BLE and USB controller/SWDIO
+J100,4,SWCLK,passive,/BLE and USB controller/SWCLK
+J100,10,nRESET,passive,/BLE and USB controller/nRESET
+J100,3,GND,passive,GND
+J100,1,VTref,passive,3V3
+J100,5,GND,passive,GND
+J100,9,GNDDetect,passive,GND
+J100,6,SWO,passive,unconnected-(J100-SWO-Pad6)
+J100,8,TDI,passive,unconnected-(J100-TDI-Pad8)
+R100,1,,passive,3V3
+R100,2,,passive,PMIC_SCL
+R101,1,,passive,3V3
+R101,2,,passive,PMIC_SDA
+R102,1,,passive,3V3
+R102,2,,passive,CHG_INT_N
+R103,1,,passive,HOST_500_OK
+R103,2,,passive,GND
+R104,1,,passive,RGB_EN
+R104,2,,passive,GND
+U100,32,P0.14,bidirectional,/BLE and USB controller/R0
+U100,31,P0.13,bidirectional,/BLE and USB controller/R1
+U100,34,P0.16,bidirectional,/BLE and USB controller/R2
+U100,33,P0.15,bidirectional,/BLE and USB controller/R3
+U100,35,P0.17,bidirectional,/BLE and USB controller/R4
+U100,8,P0.27,bidirectional,/BLE and USB controller/C0
+U100,7,P0.26,bidirectional,/BLE and USB controller/C1
+U100,20,P0.04,bidirectional,/BLE and USB controller/C2
+U100,21,P0.05,bidirectional,/BLE and USB controller/C3
+U100,22,P0.06,bidirectional,/BLE and USB controller/C4
+U100,23,P0.07,bidirectional,/BLE and USB controller/C5
+U100,24,P0.08,bidirectional,/BLE and USB controller/C6
+U100,51,P1.08,bidirectional,/BLE and USB controller/C7
+U100,52,P1.09,bidirectional,/BLE and USB controller/C8
+U100,27,P0.11,bidirectional,/BLE and USB controller/C9
+U100,28,P0.12,bidirectional,/BLE and USB controller/C10
+U100,10,P0.29,bidirectional,/BLE and USB controller/C11
+U100,11,P0.30,bidirectional,/BLE and USB controller/C12
+U100,38,P0.20,bidirectional,/BLE and USB controller/C13
+U100,41,P0.23,bidirectional,/BLE and USB controller/C14
+U100,6,P0.25,bidirectional,unconnected-(U100-P0.25-Pad6)
+U100,9,P0.28,bidirectional,/BLE and USB controller/VOLUME_ADC
+U100,37,P0.19,bidirectional,/BLE and USB controller/UI_SCL
+U100,36,P0.21,bidirectional,/BLE and USB controller/UI_SDA
+U100,12,P0.31,bidirectional,/BLE and USB controller/UI_EN
+U100,15,P0.02,bidirectional,unconnected-(U100-P0.02-Pad15)
+U100,25,P0.09,bidirectional,unconnected-(U100-P0.09-Pad25)
+U100,26,P0.10,bidirectional,unconnected-(U100-P0.10-Pad26)
+U100,48,P1.05,bidirectional,/BLE and USB controller/POT_EXC
+U100,49,P1.06,bidirectional,unconnected-(U100-P1.06-Pad49)
+U100,50,P1.07,bidirectional,unconnected-(U100-P1.07-Pad50)
+U100,58,P1.02,bidirectional,unconnected-(U100-P1.02-Pad58)
+U100,60,P1.04,bidirectional,HAPTIC_EN
+U100,17,VCC,power_in,3V3
+U100,13,P0.00_/_XL1,passive,/BLE and USB controller/XL1
+U100,65,VCCH,power_in,3V3
+U100,14,P0.01_/_XL2,passive,/BLE and USB controller/XL2
+U100,1,GND,power_in,GND
+U100,30,GND,passive,GND
+U100,2,GND,passive,GND
+U100,45,GND,passive,GND
+U100,46,GND,passive,GND
+U100,47,GND,passive,GND
+U100,29,GND,passive,GND
+U100,18,GND,passive,GND
+U100,16,GND,passive,GND
+U100,5,GND,passive,GND
+U100,55,GND,passive,GND
+U100,4,GND,passive,GND
+U100,3,GND,passive,GND
+U100,66,VBUS,power_in,/USB_VBUS
+U100,68,USB-D+,bidirectional,/BLE and USB controller/USB_DP
+U100,67,USB-D−,bidirectional,/BLE and USB controller/USB_DM
+U100,40,P0.22,bidirectional,PMIC_SCL
+U100,56,P1.00,bidirectional,PMIC_SDA
+U100,61,P1.12,bidirectional,CHG_INT_N
+U100,62,P1.13,bidirectional,/BLE and USB controller/CC_OUT1
+U100,19,P0.03,bidirectional,/BLE and USB controller/CC_OUT2
+U100,63,P1.14,bidirectional,CHG_REQUEST
+U100,59,P1.03,bidirectional,USB_SUSPEND
+U100,53,P1.10,bidirectional,/MODE_SEL
+U100,54,P1.11,bidirectional,HOST_500_OK
+U100,64,P1.15,bidirectional,RGB_EN
+U100,44,SWDIO,bidirectional,/BLE and USB controller/SWDIO
+U100,43,SWCLK,input,/BLE and USB controller/SWCLK
+U100,39,P0.18_/_nRESET,bidirectional,/BLE and USB controller/nRESET
+U100,57,P1.01,bidirectional,RGB_PG
+U100,42,P0.24,bidirectional,/RGB_DATA
+Y100,1,1,passive,/BLE and USB controller/XL1
+Y100,2,2,passive,/BLE and USB controller/XL2
+C200,1,,passive,3V3
+C200,2,,passive,GND
+C201,1,,passive,Net-(C201-Pad1)
+C201,2,,passive,GND
+C202,1,,passive,/USB-C input/VBUS_CONN
+C202,2,,passive,GND
+C203,1,,passive,Net-(U203-OV)
+C203,2,,passive,GND
+C204,1,,passive,Net-(C204-Pad1)
+C204,2,,passive,GND
+C205,1,,passive,Net-(C205-Pad1)
+C205,2,,passive,GND
+C206,1,,passive,Net-(C204-Pad1)
+C206,2,,passive,GND
+C207,1,,passive,Net-(C205-Pad1)
+C207,2,,passive,GND
+C208,1,,passive,Net-(C204-Pad1)
+C208,2,,passive,GND
+C209,1,,passive,Net-(C205-Pad1)
+C209,2,,passive,GND
+J200,SH,SHIELD,passive,GND
+J200,A1,GND,passive,GND
+J200,A12,GND,passive,GND
+J200,B1,GND,passive,GND
+J200,B12,GND,passive,GND
+J200,A4,VBUS,passive,/USB-C input/VBUS_CONN
+J200,A9,VBUS,passive,/USB-C input/VBUS_CONN
+J200,B4,VBUS,passive,/USB-C input/VBUS_CONN
+J200,B9,VBUS,passive,/USB-C input/VBUS_CONN
+J200,A5,CC1,bidirectional,/USB-C input/CC1
+J200,B5,CC2,bidirectional,/USB-C input/CC2
+J200,A7,D-,bidirectional,/BLE and USB controller/USB_DM
+J200,B7,D-,bidirectional,/BLE and USB controller/USB_DM
+J200,A6,D+,bidirectional,/BLE and USB controller/USB_DP
+J200,B6,D+,bidirectional,/BLE and USB controller/USB_DP
+J200,A8,SBU1,bidirectional,unconnected-(J200-SBU1-PadA8)
+J200,B8,SBU2,bidirectional,unconnected-(J200-SBU2-PadB8)
+Q200,4,G,input,Net-(Q200-G)
+Q200,5,D,passive,/USB-C input/VBUS_CONN
+Q200,1,S,passive,Net-(Q200-S-Pad1)
+Q200,2,S,passive,Net-(Q200-S-Pad1)
+Q200,3,S,passive,Net-(Q200-S-Pad1)
+Q201,4,G,input,Net-(Q201-G)
+Q201,5,D,passive,/USB_VBUS
+Q201,1,S,passive,Net-(Q200-S-Pad1)
+Q201,2,S,passive,Net-(Q200-S-Pad1)
+Q201,3,S,passive,Net-(Q200-S-Pad1)
+R200,1,,passive,3V3
+R200,2,,passive,/BLE and USB controller/CC_OUT1
+R201,1,,passive,3V3
+R201,2,,passive,/BLE and USB controller/CC_OUT2
+R202,1,,passive,/USB-C input/SINK_STRAP
+R202,2,,passive,GND
+R203,1,,passive,/USB-C input/SINK_STRAP
+R203,2,,passive,GND
+R204,1,,passive,/USB-C input/VBUS_CONN
+R204,2,,passive,Net-(C201-Pad1)
+R205,1,,passive,/USB-C input/VBUS_CONN
+R205,2,,passive,Net-(R205-Pad2)
+R206,1,,passive,Net-(R205-Pad2)
+R206,2,,passive,Net-(U203-OV)
+R207,1,,passive,Net-(U203-OV)
+R207,2,,passive,GND
+R208,1,,passive,/USB_VBUS
+R208,2,,passive,Net-(C204-Pad1)
+R209,1,,passive,Net-(Q200-G)
+R209,2,,passive,Net-(U203-GATE)
+R210,1,,passive,Net-(Q201-G)
+R210,2,,passive,Net-(U203-GATE)
+R211,1,,passive,Net-(U203-GATE)
+R211,2,,passive,Net-(C205-Pad1)
+R212,1,,passive,/USB-C input/VBUS_CONN
+R212,2,,passive,Net-(U203-UV)
+R213,1,,passive,Net-(U203-UV)
+R213,2,,passive,GND
+R214,1,,passive,/USB-C input/VBUS_CONN
+R214,2,,passive,Net-(U203-~{SHDN})
+U200,11,~{EN},input,GND
+U200,6,INT_N/OUT3,open_collector,unconnected-(U200-INT_N/OUT3-Pad6)
+U200,7,SDA/OUT1,bidirectional,/BLE and USB controller/CC_OUT1
+U200,8,SCL/OUT2,bidirectional,/BLE and USB controller/CC_OUT2
+U200,5,ADDR/ORIENT,bidirectional,unconnected-(U200-ADDR/ORIENT-Pad5)
+U200,9,ID,open_collector,unconnected-(U200-ID-Pad9)
+U200,12,VDD,power_in,3V3
+U200,10,GND,power_in,GND
+U200,4,VBUS_DET,input,/USB-C input/VBUS_CONN
+U200,1,CC1,bidirectional,/USB-C input/CC1
+U200,2,CC2,bidirectional,/USB-C input/CC2
+U200,3,PORT/~{DEBUG},bidirectional,/USB-C input/SINK_STRAP
+U201,3,,passive,/BLE and USB controller/USB_DM
+U201,5,,passive,/BLE and USB controller/USB_DP
+U201,4,,passive,GND
+U201,1,NC,passive,unconnected-(U201-NC-Pad1)
+U201,2,NC,passive,unconnected-(U201-NC-Pad2)
+U202,3,,passive,/USB-C input/CC1
+U202,5,,passive,/USB-C input/CC2
+U202,4,,passive,GND
+U202,1,NC,passive,unconnected-(U202-NC-Pad1)
+U202,2,NC,passive,unconnected-(U202-NC-Pad2)
+U203,1,Vin,power_in,/USB-C input/VBUS_CONN
+U203,5,~{SHDN},input,Net-(U203-~{SHDN})
+U203,2,UV,input,Net-(U203-UV)
+U203,3,OV,input,Net-(U203-OV)
+U203,8,GATE,output,Net-(U203-GATE)
+U203,4,GND,power_in,GND
+U203,7,Vout,input,/USB_VBUS
+U203,6,~{FAULT},open_collector,unconnected-(U203-~{FAULT}-Pad6)
+C301,1,,passive,GND
+C301,2,,passive,LED_5V
+C302,1,,passive,GND
+C302,2,,passive,LED_5V
+C303,1,,passive,GND
+C303,2,,passive,LED_5V
+C304,1,,passive,GND
+C304,2,,passive,LED_5V
+C305,1,,passive,GND
+C305,2,,passive,LED_5V
+C306,1,,passive,GND
+C306,2,,passive,LED_5V
+C307,1,,passive,GND
+C307,2,,passive,LED_5V
+C308,1,,passive,GND
+C308,2,,passive,LED_5V
+C309,1,,passive,GND
+C309,2,,passive,LED_5V
+C310,1,,passive,GND
+C310,2,,passive,LED_5V
+C311,1,,passive,GND
+C311,2,,passive,LED_5V
+C312,1,,passive,GND
+C312,2,,passive,LED_5V
+C313,1,,passive,GND
+C313,2,,passive,LED_5V
+C314,1,,passive,GND
+C314,2,,passive,LED_5V
+C315,1,,passive,GND
+C315,2,,passive,LED_5V
+C316,1,,passive,GND
+C316,2,,passive,LED_5V
+C317,1,,passive,GND
+C317,2,,passive,LED_5V
+C318,1,,passive,GND
+C318,2,,passive,LED_5V
+C319,1,,passive,GND
+C319,2,,passive,LED_5V
+C320,1,,passive,GND
+C320,2,,passive,LED_5V
+C321,1,,passive,GND
+C321,2,,passive,LED_5V
+C322,1,,passive,GND
+C322,2,,passive,LED_5V
+C323,1,,passive,GND
+C323,2,,passive,LED_5V
+C324,1,,passive,GND
+C324,2,,passive,LED_5V
+C325,1,,passive,GND
+C325,2,,passive,LED_5V
+C326,1,,passive,GND
+C326,2,,passive,LED_5V
+C327,1,,passive,GND
+C327,2,,passive,LED_5V
+C328,1,,passive,GND
+C328,2,,passive,LED_5V
+C329,1,,passive,GND
+C329,2,,passive,LED_5V
+C330,1,,passive,GND
+C330,2,,passive,LED_5V
+C331,1,,passive,GND
+C331,2,,passive,LED_5V
+C332,1,,passive,GND
+C332,2,,passive,LED_5V
+C333,1,,passive,GND
+C333,2,,passive,LED_5V
+C334,1,,passive,GND
+C334,2,,passive,LED_5V
+C335,1,,passive,GND
+C335,2,,passive,LED_5V
+C336,1,,passive,GND
+C336,2,,passive,LED_5V
+C337,1,,passive,GND
+C337,2,,passive,LED_5V
+C338,1,,passive,GND
+C338,2,,passive,LED_5V
+C339,1,,passive,GND
+C339,2,,passive,LED_5V
+C340,1,,passive,GND
+C340,2,,passive,LED_5V
+C341,1,,passive,GND
+C341,2,,passive,LED_5V
+C342,1,,passive,GND
+C342,2,,passive,LED_5V
+C343,1,,passive,GND
+C343,2,,passive,LED_5V
+C344,1,,passive,GND
+C344,2,,passive,LED_5V
+C345,1,,passive,GND
+C345,2,,passive,LED_5V
+C346,1,,passive,GND
+C346,2,,passive,LED_5V
+C347,1,,passive,GND
+C347,2,,passive,LED_5V
+C348,1,,passive,GND
+C348,2,,passive,LED_5V
+C349,1,,passive,GND
+C349,2,,passive,LED_5V
+C350,1,,passive,GND
+C350,2,,passive,LED_5V
+C351,1,,passive,GND
+C351,2,,passive,LED_5V
+C352,1,,passive,GND
+C352,2,,passive,LED_5V
+C353,1,,passive,GND
+C353,2,,passive,LED_5V
+C354,1,,passive,GND
+C354,2,,passive,LED_5V
+C355,1,,passive,GND
+C355,2,,passive,LED_5V
+C356,1,,passive,GND
+C356,2,,passive,LED_5V
+C357,1,,passive,GND
+C357,2,,passive,LED_5V
+C358,1,,passive,GND
+C358,2,,passive,LED_5V
+C359,1,,passive,GND
+C359,2,,passive,LED_5V
+C360,1,,passive,GND
+C360,2,,passive,LED_5V
+C361,1,,passive,GND
+C361,2,,passive,LED_5V
+C362,1,,passive,GND
+C362,2,,passive,LED_5V
+C363,1,,passive,GND
+C363,2,,passive,LED_5V
+C364,1,,passive,GND
+C364,2,,passive,LED_5V
+C365,1,,passive,GND
+C365,2,,passive,LED_5V
+C366,1,,passive,GND
+C366,2,,passive,LED_5V
+C367,1,,passive,GND
+C367,2,,passive,LED_5V
+C380,1,,passive,3V3
+C380,2,,passive,GND
+C381,1,,passive,LED_5V
+C381,2,,passive,GND
+LED1,2,DIN,input,/RGB lighting/DIN_FIRST
+LED1,3,VDD,power_in,LED_5V
+LED1,1,VSS,power_in,GND
+LED1,4,DOUT,output,Net-(LED1-DOUT)
+LED2,2,DIN,input,Net-(LED1-DOUT)
+LED2,3,VDD,power_in,LED_5V
+LED2,1,VSS,power_in,GND
+LED2,4,DOUT,output,Net-(LED2-DOUT)
+LED3,2,DIN,input,Net-(LED2-DOUT)
+LED3,3,VDD,power_in,LED_5V
+LED3,1,VSS,power_in,GND
+LED3,4,DOUT,output,Net-(LED3-DOUT)
+LED4,2,DIN,input,Net-(LED3-DOUT)
+LED4,3,VDD,power_in,LED_5V
+LED4,1,VSS,power_in,GND
+LED4,4,DOUT,output,Net-(LED4-DOUT)
+LED5,2,DIN,input,Net-(LED4-DOUT)
+LED5,3,VDD,power_in,LED_5V
+LED5,1,VSS,power_in,GND
+LED5,4,DOUT,output,Net-(LED5-DOUT)
+LED6,2,DIN,input,Net-(LED5-DOUT)
+LED6,3,VDD,power_in,LED_5V
+LED6,1,VSS,power_in,GND
+LED6,4,DOUT,output,Net-(LED6-DOUT)
+LED7,2,DIN,input,Net-(LED6-DOUT)
+LED7,3,VDD,power_in,LED_5V
+LED7,1,VSS,power_in,GND
+LED7,4,DOUT,output,Net-(LED7-DOUT)
+LED8,2,DIN,input,Net-(LED7-DOUT)
+LED8,3,VDD,power_in,LED_5V
+LED8,1,VSS,power_in,GND
+LED8,4,DOUT,output,Net-(LED8-DOUT)
+LED9,2,DIN,input,Net-(LED8-DOUT)
+LED9,3,VDD,power_in,LED_5V
+LED9,1,VSS,power_in,GND
+LED9,4,DOUT,output,Net-(LED10-DIN)
+LED10,2,DIN,input,Net-(LED10-DIN)
+LED10,3,VDD,power_in,LED_5V
+LED10,1,VSS,power_in,GND
+LED10,4,DOUT,output,Net-(LED10-DOUT)
+LED11,2,DIN,input,Net-(LED10-DOUT)
+LED11,3,VDD,power_in,LED_5V
+LED11,1,VSS,power_in,GND
+LED11,4,DOUT,output,Net-(LED11-DOUT)
+LED12,2,DIN,input,Net-(LED11-DOUT)
+LED12,3,VDD,power_in,LED_5V
+LED12,1,VSS,power_in,GND
+LED12,4,DOUT,output,Net-(LED12-DOUT)
+LED13,2,DIN,input,Net-(LED12-DOUT)
+LED13,3,VDD,power_in,LED_5V
+LED13,1,VSS,power_in,GND
+LED13,4,DOUT,output,Net-(LED13-DOUT)
+LED14,2,DIN,input,Net-(LED13-DOUT)
+LED14,3,VDD,power_in,LED_5V
+LED14,1,VSS,power_in,GND
+LED14,4,DOUT,output,Net-(LED14-DOUT)
+LED15,2,DIN,input,Net-(LED14-DOUT)
+LED15,3,VDD,power_in,LED_5V
+LED15,1,VSS,power_in,GND
+LED15,4,DOUT,output,/RGB lighting/CHAIN_ROW2
+LED16,2,DIN,input,Net-(LED16-DIN)
+LED16,3,VDD,power_in,LED_5V
+LED16,1,VSS,power_in,GND
+LED16,4,DOUT,output,/RGB lighting/CHAIN_ROW3
+LED17,2,DIN,input,Net-(LED17-DIN)
+LED17,3,VDD,power_in,LED_5V
+LED17,1,VSS,power_in,GND
+LED17,4,DOUT,output,Net-(LED16-DIN)
+LED18,2,DIN,input,Net-(LED18-DIN)
+LED18,3,VDD,power_in,LED_5V
+LED18,1,VSS,power_in,GND
+LED18,4,DOUT,output,Net-(LED17-DIN)
+LED19,2,DIN,input,Net-(LED19-DIN)
+LED19,3,VDD,power_in,LED_5V
+LED19,1,VSS,power_in,GND
+LED19,4,DOUT,output,Net-(LED18-DIN)
+LED20,2,DIN,input,Net-(LED20-DIN)
+LED20,3,VDD,power_in,LED_5V
+LED20,1,VSS,power_in,GND
+LED20,4,DOUT,output,Net-(LED19-DIN)
+LED21,2,DIN,input,Net-(LED21-DIN)
+LED21,3,VDD,power_in,LED_5V
+LED21,1,VSS,power_in,GND
+LED21,4,DOUT,output,Net-(LED20-DIN)
+LED22,2,DIN,input,Net-(LED22-DIN)
+LED22,3,VDD,power_in,LED_5V
+LED22,1,VSS,power_in,GND
+LED22,4,DOUT,output,Net-(LED21-DIN)
+LED23,2,DIN,input,Net-(LED23-DIN)
+LED23,3,VDD,power_in,LED_5V
+LED23,1,VSS,power_in,GND
+LED23,4,DOUT,output,Net-(LED22-DIN)
+LED24,2,DIN,input,Net-(LED24-DIN)
+LED24,3,VDD,power_in,LED_5V
+LED24,1,VSS,power_in,GND
+LED24,4,DOUT,output,Net-(LED23-DIN)
+LED25,2,DIN,input,Net-(LED25-DIN)
+LED25,3,VDD,power_in,LED_5V
+LED25,1,VSS,power_in,GND
+LED25,4,DOUT,output,Net-(LED24-DIN)
+LED26,2,DIN,input,Net-(LED26-DIN)
+LED26,3,VDD,power_in,LED_5V
+LED26,1,VSS,power_in,GND
+LED26,4,DOUT,output,Net-(LED25-DIN)
+LED27,2,DIN,input,Net-(LED27-DIN)
+LED27,3,VDD,power_in,LED_5V
+LED27,1,VSS,power_in,GND
+LED27,4,DOUT,output,Net-(LED26-DIN)
+LED28,2,DIN,input,Net-(LED28-DIN)
+LED28,3,VDD,power_in,LED_5V
+LED28,1,VSS,power_in,GND
+LED28,4,DOUT,output,Net-(LED27-DIN)
+LED29,2,DIN,input,Net-(LED29-DIN)
+LED29,3,VDD,power_in,LED_5V
+LED29,1,VSS,power_in,GND
+LED29,4,DOUT,output,Net-(LED28-DIN)
+LED30,2,DIN,input,/RGB lighting/CHAIN_ROW2
+LED30,3,VDD,power_in,LED_5V
+LED30,1,VSS,power_in,GND
+LED30,4,DOUT,output,Net-(LED29-DIN)
+LED31,2,DIN,input,/RGB lighting/CHAIN_ROW3
+LED31,3,VDD,power_in,LED_5V
+LED31,1,VSS,power_in,GND
+LED31,4,DOUT,output,Net-(LED31-DOUT)
+LED32,2,DIN,input,Net-(LED31-DOUT)
+LED32,3,VDD,power_in,LED_5V
+LED32,1,VSS,power_in,GND
+LED32,4,DOUT,output,Net-(LED32-DOUT)
+LED33,2,DIN,input,Net-(LED32-DOUT)
+LED33,3,VDD,power_in,LED_5V
+LED33,1,VSS,power_in,GND
+LED33,4,DOUT,output,Net-(LED33-DOUT)
+LED34,2,DIN,input,Net-(LED33-DOUT)
+LED34,3,VDD,power_in,LED_5V
+LED34,1,VSS,power_in,GND
+LED34,4,DOUT,output,Net-(LED34-DOUT)
+LED35,2,DIN,input,Net-(LED34-DOUT)
+LED35,3,VDD,power_in,LED_5V
+LED35,1,VSS,power_in,GND
+LED35,4,DOUT,output,Net-(LED35-DOUT)
+LED36,2,DIN,input,Net-(LED35-DOUT)
+LED36,3,VDD,power_in,LED_5V
+LED36,1,VSS,power_in,GND
+LED36,4,DOUT,output,Net-(LED36-DOUT)
+LED37,2,DIN,input,Net-(LED36-DOUT)
+LED37,3,VDD,power_in,LED_5V
+LED37,1,VSS,power_in,GND
+LED37,4,DOUT,output,Net-(LED37-DOUT)
+LED38,2,DIN,input,Net-(LED37-DOUT)
+LED38,3,VDD,power_in,LED_5V
+LED38,1,VSS,power_in,GND
+LED38,4,DOUT,output,Net-(LED38-DOUT)
+LED39,2,DIN,input,Net-(LED38-DOUT)
+LED39,3,VDD,power_in,LED_5V
+LED39,1,VSS,power_in,GND
+LED39,4,DOUT,output,Net-(LED39-DOUT)
+LED40,2,DIN,input,Net-(LED39-DOUT)
+LED40,3,VDD,power_in,LED_5V
+LED40,1,VSS,power_in,GND
+LED40,4,DOUT,output,Net-(LED40-DOUT)
+LED41,2,DIN,input,Net-(LED40-DOUT)
+LED41,3,VDD,power_in,LED_5V
+LED41,1,VSS,power_in,GND
+LED41,4,DOUT,output,Net-(LED41-DOUT)
+LED42,2,DIN,input,Net-(LED41-DOUT)
+LED42,3,VDD,power_in,LED_5V
+LED42,1,VSS,power_in,GND
+LED42,4,DOUT,output,Net-(LED42-DOUT)
+LED43,2,DIN,input,Net-(LED42-DOUT)
+LED43,3,VDD,power_in,LED_5V
+LED43,1,VSS,power_in,GND
+LED43,4,DOUT,output,Net-(LED43-DOUT)
+LED44,2,DIN,input,Net-(LED43-DOUT)
+LED44,3,VDD,power_in,LED_5V
+LED44,1,VSS,power_in,GND
+LED44,4,DOUT,output,/RGB lighting/CHAIN_ROW4
+LED45,2,DIN,input,Net-(LED45-DIN)
+LED45,3,VDD,power_in,LED_5V
+LED45,1,VSS,power_in,GND
+LED45,4,DOUT,output,/RGB lighting/CHAIN_ROW5
+LED46,2,DIN,input,Net-(LED46-DIN)
+LED46,3,VDD,power_in,LED_5V
+LED46,1,VSS,power_in,GND
+LED46,4,DOUT,output,Net-(LED45-DIN)
+LED47,2,DIN,input,Net-(LED47-DIN)
+LED47,3,VDD,power_in,LED_5V
+LED47,1,VSS,power_in,GND
+LED47,4,DOUT,output,Net-(LED46-DIN)
+LED48,2,DIN,input,Net-(LED48-DIN)
+LED48,3,VDD,power_in,LED_5V
+LED48,1,VSS,power_in,GND
+LED48,4,DOUT,output,Net-(LED47-DIN)
+LED49,2,DIN,input,Net-(LED49-DIN)
+LED49,3,VDD,power_in,LED_5V
+LED49,1,VSS,power_in,GND
+LED49,4,DOUT,output,Net-(LED48-DIN)
+LED50,2,DIN,input,Net-(LED50-DIN)
+LED50,3,VDD,power_in,LED_5V
+LED50,1,VSS,power_in,GND
+LED50,4,DOUT,output,Net-(LED49-DIN)
+LED51,2,DIN,input,Net-(LED51-DIN)
+LED51,3,VDD,power_in,LED_5V
+LED51,1,VSS,power_in,GND
+LED51,4,DOUT,output,Net-(LED50-DIN)
+LED52,2,DIN,input,Net-(LED52-DIN)
+LED52,3,VDD,power_in,LED_5V
+LED52,1,VSS,power_in,GND
+LED52,4,DOUT,output,Net-(LED51-DIN)
+LED53,2,DIN,input,Net-(LED53-DIN)
+LED53,3,VDD,power_in,LED_5V
+LED53,1,VSS,power_in,GND
+LED53,4,DOUT,output,Net-(LED52-DIN)
+LED54,2,DIN,input,Net-(LED54-DIN)
+LED54,3,VDD,power_in,LED_5V
+LED54,1,VSS,power_in,GND
+LED54,4,DOUT,output,Net-(LED53-DIN)
+LED55,2,DIN,input,Net-(LED55-DIN)
+LED55,3,VDD,power_in,LED_5V
+LED55,1,VSS,power_in,GND
+LED55,4,DOUT,output,Net-(LED54-DIN)
+LED56,2,DIN,input,Net-(LED56-DIN)
+LED56,3,VDD,power_in,LED_5V
+LED56,1,VSS,power_in,GND
+LED56,4,DOUT,output,Net-(LED55-DIN)
+LED57,2,DIN,input,Net-(LED57-DIN)
+LED57,3,VDD,power_in,LED_5V
+LED57,1,VSS,power_in,GND
+LED57,4,DOUT,output,Net-(LED56-DIN)
+LED58,2,DIN,input,/RGB lighting/CHAIN_ROW4
+LED58,3,VDD,power_in,LED_5V
+LED58,1,VSS,power_in,GND
+LED58,4,DOUT,output,Net-(LED57-DIN)
+LED59,2,DIN,input,/RGB lighting/CHAIN_ROW5
+LED59,3,VDD,power_in,LED_5V
+LED59,1,VSS,power_in,GND
+LED59,4,DOUT,output,Net-(LED59-DOUT)
+LED60,2,DIN,input,Net-(LED59-DOUT)
+LED60,3,VDD,power_in,LED_5V
+LED60,1,VSS,power_in,GND
+LED60,4,DOUT,output,Net-(LED60-DOUT)
+LED61,2,DIN,input,Net-(LED60-DOUT)
+LED61,3,VDD,power_in,LED_5V
+LED61,1,VSS,power_in,GND
+LED61,4,DOUT,output,Net-(LED61-DOUT)
+LED62,2,DIN,input,Net-(LED61-DOUT)
+LED62,3,VDD,power_in,LED_5V
+LED62,1,VSS,power_in,GND
+LED62,4,DOUT,output,Net-(LED62-DOUT)
+LED63,2,DIN,input,Net-(LED62-DOUT)
+LED63,3,VDD,power_in,LED_5V
+LED63,1,VSS,power_in,GND
+LED63,4,DOUT,output,Net-(LED63-DOUT)
+LED64,2,DIN,input,Net-(LED63-DOUT)
+LED64,3,VDD,power_in,LED_5V
+LED64,1,VSS,power_in,GND
+LED64,4,DOUT,output,Net-(LED64-DOUT)
+LED65,2,DIN,input,Net-(LED64-DOUT)
+LED65,3,VDD,power_in,LED_5V
+LED65,1,VSS,power_in,GND
+LED65,4,DOUT,output,Net-(LED65-DOUT)
+LED66,2,DIN,input,Net-(LED65-DOUT)
+LED66,3,VDD,power_in,LED_5V
+LED66,1,VSS,power_in,GND
+LED66,4,DOUT,output,Net-(LED66-DOUT)
+LED67,2,DIN,input,Net-(LED66-DOUT)
+LED67,3,VDD,power_in,LED_5V
+LED67,1,VSS,power_in,GND
+LED67,4,DOUT,output,Net-(LED67-DOUT)
+R300,1,,passive,GND
+R300,2,,passive,/RGB_DATA
+R301,1,,passive,Net-(U300-B)
+R301,2,,passive,/RGB lighting/DIN_FIRST
+R302,1,,passive,/RGB lighting/DIN_FIRST
+R302,2,,passive,GND
+TP300,1,1,passive,Net-(LED67-DOUT)
+U300,3,A,bidirectional,/RGB_DATA
+U300,5,DIR,input,3V3
+U300,1,VCCA,power_in,3V3
+U300,2,GND,power_in,GND
+U300,6,VCCB,power_in,LED_5V
+U300,4,B,bidirectional,Net-(U300-B)
+C600,1,,passive,Net-(U600-BTST)
+C600,2,,passive,Net-(U600-SW)
+C601,1,,passive,/Charger and pack/VBUS_LIMITED
+C601,2,,passive,GND
+C602,1,,passive,/Charger and pack/PMID
+C602,2,,passive,GND
+C603,1,,passive,/Charger and pack/PMID
+C603,2,,passive,GND
+C604,1,,passive,/Charger and pack/REGN
+C604,2,,passive,GND
+C605,1,,passive,/SYS
+C605,2,,passive,GND
+C606,1,,passive,/SYS
+C606,2,,passive,GND
+C607,1,,passive,/Charger and pack/PACK_POS
+C607,2,,passive,GND
+C608,1,,passive,Net-(C608-Pad1)
+C608,2,,passive,GND
+C609,1,,passive,/Charger and pack/TEMP_OK
+C609,2,,passive,GND
+C610,1,,passive,/Charger and pack/REGN
+C610,2,,passive,GND
+J600,1,BAT+,passive,/Charger and pack/PACK_POS
+J600,2,NTC,passive,/Charger and pack/PACK_NTC
+J600,3,BAT−,passive,GND
+J600,MP,HOLD,passive,GND
+L600,1,1,passive,Net-(U600-SW)
+L600,2,2,passive,/SYS
+Q600,1,G,input,/Charger and pack/TEMP_OK
+Q600,3,D,passive,/Charger and pack/CHARGE_INHIBIT
+Q600,2,S,passive,Net-(Q600-S)
+Q601,1,G,input,CHG_REQUEST
+Q601,3,D,passive,Net-(Q600-S)
+Q601,2,S,passive,GND
+R600,1,,passive,/Charger and pack/ILIM
+R600,2,,passive,GND
+R601,1,,passive,/Charger and pack/ILIM
+R601,2,,passive,Net-(C608-Pad1)
+R602,1,,passive,/Charger and pack/REGN
+R602,2,,passive,/Charger and pack/PACK_NTC
+R603,1,,passive,/Charger and pack/PACK_NTC
+R603,2,,passive,GND
+R604,1,,passive,/Charger and pack/VBUS_LIMITED
+R604,2,,passive,/Charger and pack/CHARGE_INHIBIT
+R605,1,,passive,/Charger and pack/CHARGE_INHIBIT
+R605,2,,passive,GND
+R606,1,,passive,CHG_REQUEST
+R606,2,,passive,GND
+R607,1,,passive,/Charger and pack/REGN
+R607,2,,passive,/Charger and pack/COLD_REF
+R608,1,,passive,/Charger and pack/COLD_REF
+R608,2,,passive,/Charger and pack/HOT_REF
+R609,1,,passive,/Charger and pack/HOT_REF
+R609,2,,passive,GND
+R610,1,,passive,/Charger and pack/REGN
+R610,2,,passive,/Charger and pack/TEMP_OK
+U600,18,VBUS,power_in,/Charger and pack/VBUS_LIMITED
+U600,17,PMID,passive,/Charger and pack/PMID
+U600,2,REGN,power_out,/Charger and pack/REGN
+U600,4,ILIM,passive,/Charger and pack/ILIM
+U600,13,SCL,input,PMIC_SCL
+U600,12,SDA,bidirectional,PMIC_SDA
+U600,11,~{INT},open_collector,CHG_INT_N
+U600,14,~{CE},input,/Charger and pack/CHARGE_INHIBIT
+U600,3,~{PG},open_collector,unconnected-(U600-~{PG}-Pad3)
+U600,1,BTST,passive,Net-(U600-BTST)
+U600,16,SW,passive,Net-(U600-SW)
+U600,9,SYS,power_out,/SYS
+U600,8,BAT,passive,/Charger and pack/PACK_POS
+U600,5,TS_BIAS,power_out,unconnected-(U600-TS_BIAS-Pad5)
+U600,6,TS,input,/Charger and pack/PACK_NTC
+U600,7,~{QON},input,unconnected-(U600-~{QON}-Pad7)
+U600,10,STAT,open_collector,unconnected-(U600-STAT-Pad10)
+U600,15,GND,power_in,GND
+U601,3,+,input,/Charger and pack/COLD_REF
+U601,2,-,input,/Charger and pack/PACK_NTC
+U601,5,+,input,/Charger and pack/PACK_NTC
+U601,6,-,input,/Charger and pack/HOT_REF
+U601,8,,power_in,/Charger and pack/REGN
+U601,4,,power_in,GND
+U601,1,,open_collector,/Charger and pack/TEMP_OK
+U601,7,,open_collector,/Charger and pack/TEMP_OK
+C700,1,,passive,/LOGIC_IN
+C700,2,,passive,GND
+C701,1,,passive,3V3
+C701,2,,passive,GND
+C702,1,,passive,3V3
+C702,2,,passive,GND
+L700,1,1,passive,/Logic supply/LX1
+L700,2,2,passive,/Logic supply/LX2
+R700,1,,passive,/Logic supply/CFG_3V3
+R700,2,,passive,GND
+U700,10,VIN,power_in,/LOGIC_IN
+U700,1,EN,input,/LOGIC_IN
+U700,2,SEL,input,/LOGIC_IN
+U700,9,LX1,input,/Logic supply/LX1
+U700,7,LX2,input,/Logic supply/LX2
+U700,8,GND,power_in,GND
+U700,11,GND,passive,GND
+U700,6,VOUT,power_out,3V3
+U700,3,CFG1,input,/Logic supply/CFG_3V3
+U700,4,CFG2,input,GND
+U700,5,CFG3,input,GND
+C800,1,,passive,/USB_VBUS
+C800,2,,passive,GND
+C801,1,,passive,3V3
+C801,2,,passive,GND
+C802,1,,passive,3V3
+C802,2,,passive,GND
+C803,1,,passive,Net-(U803-1REXT/CEXT)
+C803,2,,passive,Net-(U803-1CEXT)
+C804,1,,passive,Net-(U803-2REXT/CEXT)
+C804,2,,passive,Net-(U803-2CEXT)
+C805,1,,passive,3V3
+C805,2,,passive,GND
+C806,1,,passive,/USB current limiter/GATE_3A
+C806,2,,passive,GND
+C807,1,,passive,/USB current limiter/GATE_1A5
+C807,2,,passive,GND
+D800,1,A,passive,/SYS
+D800,3,K,passive,/LOGIC_IN
+D800,2,A,passive,Net-(D800-A-Pad2)
+D801,1,A,passive,/Charger and pack/VBUS_LIMITED
+D801,3,K,passive,/LOGIC_IN
+D801,2,A,passive,/Charger and pack/VBUS_LIMITED
+D802,1,K,passive,/USB current limiter/TIER_3A
+D802,2,A,passive,/USB current limiter/GATE_3A
+D803,1,K,passive,/USB current limiter/TIER_1A5
+D803,2,A,passive,/USB current limiter/GATE_1A5
+Q800,1,G,input,/USB current limiter/GATE_3A
+Q800,3,D,passive,Net-(Q800-D)
+Q800,2,S,passive,GND
+Q801,1,G,input,/USB current limiter/GATE_1A5
+Q801,3,D,passive,Net-(Q801-D)
+Q801,2,S,passive,GND
+Q802,1,G,input,/USB current limiter/TIER_DEFAULT
+Q802,3,D,passive,Net-(Q802-D)
+Q802,2,S,passive,Net-(Q802-S)
+Q803,1,G,input,/USB current limiter/HOST_ALIVE
+Q803,3,D,passive,Net-(Q802-S)
+Q803,2,S,passive,Net-(Q803-S)
+Q804,1,G,input,/USB current limiter/BUS_ACTIVE
+Q804,3,D,passive,Net-(Q803-S)
+Q804,2,S,passive,GND
+Q805,1,G,input,Net-(Q805-G)
+Q805,3,D,passive,/USB current limiter/MAIN_ON
+Q805,2,S,passive,Net-(Q805-S)
+Q806,1,G,input,/USB current limiter/BUS_QUIET
+Q806,3,D,passive,Net-(Q805-S)
+Q806,2,S,passive,Net-(Q806-S)
+Q807,1,G,input,/BLE and USB controller/CC_OUT1
+Q807,3,D,passive,Net-(Q806-S)
+Q807,2,S,passive,GND
+Q808,1,G,input,USB_SUSPEND
+Q808,3,D,passive,Net-(Q806-S)
+Q808,2,S,passive,GND
+R800,1,,passive,/USB_VBUS
+R800,2,,passive,/USB current limiter/MAIN_ON
+R801,1,,passive,/USB_VBUS
+R801,2,,passive,Net-(D800-A-Pad2)
+R802,1,,passive,/USB current limiter/LIMIT_SET
+R802,2,,passive,/USB current limiter/BASE_MID
+R803,1,,passive,/USB current limiter/BASE_MID
+R803,2,,passive,GND
+R804,1,,passive,/USB current limiter/LIMIT_SET
+R804,2,,passive,Net-(Q800-D)
+R805,1,,passive,/USB current limiter/LIMIT_SET
+R805,2,,passive,Net-(Q801-D)
+R806,1,,passive,/USB current limiter/LIMIT_SET
+R806,2,,passive,Net-(Q802-D)
+R807,1,,passive,/BLE and USB controller/USB_DM
+R807,2,,passive,Net-(U803-1A)
+R808,1,,passive,3V3
+R808,2,,passive,Net-(U803-1REXT/CEXT)
+R809,1,,passive,3V3
+R809,2,,passive,Net-(U803-2REXT/CEXT)
+R810,1,,passive,/BLE and USB controller/USB_DP
+R810,2,,passive,Net-(Q805-G)
+R811,1,,passive,USB_SUSPEND
+R811,2,,passive,GND
+R812,1,,passive,/USB current limiter/TIER_3A
+R812,2,,passive,/USB current limiter/GATE_3A
+R813,1,,passive,/USB current limiter/GATE_3A
+R813,2,,passive,GND
+R814,1,,passive,/USB current limiter/TIER_1A5
+R814,2,,passive,/USB current limiter/GATE_1A5
+R815,1,,passive,/USB current limiter/GATE_1A5
+R815,2,,passive,GND
+R816,1,,passive,/USB current limiter/TIER_DEFAULT
+R816,2,,passive,GND
+R817,1,,passive,/BLE and USB controller/USB_DP
+R817,2,,passive,Net-(U803-1B)
+U800,2,VIN,power_in,/USB_VBUS
+U800,1,ON,input,/USB current limiter/MAIN_ON
+U800,3,GND,power_in,GND
+U800,5,VOUT,power_out,/Charger and pack/VBUS_LIMITED
+U800,4,ILIM,passive,/USB current limiter/LIMIT_SET
+U800,6,~{FLT},open_collector,unconnected-(U800-~{FLT}-Pad6)
+U801,1,A0,input,/BLE and USB controller/CC_OUT2
+U801,2,A1,input,/BLE and USB controller/CC_OUT1
+U801,3,A2,input,GND
+U801,4,~{E1},input,GND
+U801,5,~{E2},input,GND
+U801,6,E3,input,/USB current limiter/LOGIC_READY
+U801,16,VCC,power_in,3V3
+U801,8,GND,power_in,GND
+U801,15,Y0,output,/USB current limiter/TIER_3A
+U801,14,Y1,output,/USB current limiter/TIER_1A5
+U801,13,Y2,output,unconnected-(U801-Y2-Pad13)
+U801,12,Y3,output,/USB current limiter/TIER_DEFAULT
+U801,11,Y4,output,unconnected-(U801-Y4-Pad11)
+U801,10,Y5,output,unconnected-(U801-Y5-Pad10)
+U801,9,Y6,output,unconnected-(U801-Y6-Pad9)
+U801,7,Y7,output,unconnected-(U801-Y7-Pad7)
+U802,3,VCC,power_in,3V3
+U802,1,GND,power_in,GND
+U802,2,~{RESET},output,/USB current limiter/LOGIC_READY
+U803,1,1A,input,Net-(U803-1A)
+U803,2,1B,input,Net-(U803-1B)
+U803,3,~{1RD},input,3V3
+U803,9,2A,input,GND
+U803,10,2B,input,HOST_500_OK
+U803,11,~{2RD},input,/USB current limiter/LOGIC_READY
+U803,16,VCC,power_in,3V3
+U803,8,GND,power_in,GND
+U803,15,1REXT/CEXT,passive,Net-(U803-1REXT/CEXT)
+U803,14,1CEXT,passive,Net-(U803-1CEXT)
+U803,13,1Q,output,/USB current limiter/BUS_ACTIVE
+U803,4,~{1Q},output,/USB current limiter/BUS_QUIET
+U803,7,2REXT/CEXT,passive,Net-(U803-2REXT/CEXT)
+U803,6,2CEXT,passive,Net-(U803-2CEXT)
+U803,5,2Q,output,/USB current limiter/HOST_ALIVE
+U803,12,~{2Q},output,unconnected-(U803-~{2Q}-Pad12)
+C900,1,,passive,LED_5V
+C900,2,,passive,/RGB supply/FB
+C901,1,,passive,/SYS
+C901,2,,passive,GND
+C902,1,,passive,LED_5V
+C902,2,,passive,GND
+C903,1,,passive,LED_5V
+C903,2,,passive,GND
+C904,1,,passive,LED_5V
+C904,2,,passive,GND
+C905,1,,passive,LED_5V
+C905,2,,passive,GND
+C906,1,,passive,/SYS
+C906,2,,passive,GND
+L900,1,1,passive,/SYS
+L900,2,2,passive,/RGB supply/SW
+R900,1,,passive,Net-(U900-ILIM)
+R900,2,,passive,GND
+R901,1,,passive,LED_5V
+R901,2,,passive,/RGB supply/FB
+R902,1,,passive,/RGB supply/FB
+R902,2,,passive,GND
+R903,1,,passive,LED_5V
+R903,2,,passive,GND
+R904,1,,passive,RGB_EN
+R904,2,,passive,/RGB supply/LED_GATE
+R905,1,,passive,/RGB supply/LED_GATE
+R905,2,,passive,GND
+R906,1,,passive,/RGB supply/LED_GATE
+R906,2,,passive,RGB_PG
+U900,7,SW,passive,/RGB supply/SW
+U900,6,EN,input,/RGB supply/LED_GATE
+U900,4,ILIM,input,Net-(U900-ILIM)
+U900,8,VIN,power_in,/SYS
+U900,1,GND,power_in,GND
+U900,9,GND,passive,GND
+U900,2,VOUT,power_out,LED_5V
+U900,3,FB,input,/RGB supply/FB
+U900,5,PG,open_collector,RGB_PG
+U901,5,SENSE,input,/SYS
+U901,3,~{MR},input,/SYS
+U901,4,CT,input,unconnected-(U901-CT-Pad4)
+U901,6,VDD,power_in,/SYS
+U901,2,GND,power_in,GND
+U901,1,~{RESET},output,/RGB supply/LED_GATE
+C1000,1,,passive,3V3
+C1000,2,,passive,GND
+C1001,1,,passive,/Display and volume/OLED_VIN_SW
+C1001,2,,passive,GND
+C1002,1,,passive,/BLE and USB controller/VOLUME_ADC
+C1002,2,,passive,GND
+J1000,1,Pin_1,passive,GND
+J1000,2,Pin_2,passive,/Display and volume/OLED_VIN_SW
+J1000,3,Pin_3,passive,/BLE and USB controller/UI_SDA
+J1000,4,Pin_4,passive,/BLE and USB controller/UI_SCL
+J1000,MP,MountPin,passive,GND
+R1000,1,,passive,/BLE and USB controller/UI_EN
+R1000,2,,passive,GND
+R1001,1,,passive,Net-(R1001-Pad1)
+R1001,2,,passive,/BLE and USB controller/VOLUME_ADC
+R1002,1,,passive,/Display and volume/OLED_VIN_SW
+R1002,2,,passive,/BLE and USB controller/UI_SDA
+R1003,1,,passive,/Display and volume/OLED_VIN_SW
+R1003,2,,passive,/BLE and USB controller/UI_SCL
+R1004,1,,passive,Net-(U1000-QOD)
+R1004,2,,passive,/Display and volume/OLED_VIN_SW
+RV1000,MP,MountPin,passive,GND
+RV1000,1,1,passive,GND
+RV1000,3,3,passive,/BLE and USB controller/POT_EXC
+RV1000,2,2,passive,Net-(R1001-Pad1)
+U1000,1,IN,power_in,3V3
+U1000,3,ON,input,/BLE and USB controller/UI_EN
+U1000,4,NC,no_connect,unconnected-(U1000-NC-Pad4)
+U1000,2,GND,power_in,GND
+U1000,6,OUT,power_out,/Display and volume/OLED_VIN_SW
+U1000,5,QOD,open_collector,Net-(U1000-QOD)
+C1100,1,,passive,/SYS
+C1100,2,,passive,GND
+C1101,1,,passive,/SYS
+C1101,2,,passive,GND
+C1103,1,,passive,Net-(U1100-REG)
+C1103,2,,passive,GND
+C1104,1,,passive,/SYS
+C1104,2,,passive,GND
+C1105,1,,passive,/WASD haptics/HAPTIC_1V8
+C1105,2,,passive,GND
+C1106,1,,passive,3V3
+C1106,2,,passive,GND
+C1107,1,,passive,/WASD haptics/HAPTIC_1V8
+C1107,2,,passive,GND
+C1108,1,,passive,Net-(U1102-OE)
+C1108,2,,passive,GND
+M1100,1,,passive,Net-(U1100-OUT+)
+M1100,2,,passive,Net-(U1100-OUT-)
+R1100,1,,passive,HAPTIC_EN
+R1100,2,,passive,GND
+R1101,1,,passive,Net-(U1102-OE)
+R1101,2,,passive,/WASD haptics/HAPTIC_1V8
+U1100,3,SDA,bidirectional,/WASD haptics/HAPTIC_SDA
+U1100,2,SCL,input,/WASD haptics/HAPTIC_SCL
+U1100,4,IN/TRIG,input,GND
+U1100,5,EN,input,/WASD haptics/HAPTIC_1V8
+U1100,6,VDD/NC,power_in,/SYS
+U1100,10,VDD,power_in,/SYS
+U1100,8,GND,power_in,GND
+U1100,7,OUT+,output,Net-(U1100-OUT+)
+U1100,9,OUT-,output,Net-(U1100-OUT-)
+U1100,1,REG,passive,Net-(U1100-REG)
+U1101,1,IN,power_in,/SYS
+U1101,3,EN,input,HAPTIC_EN
+U1101,2,GND,power_in,GND
+U1101,4,NC,no_connect,unconnected-(U1101-NC-Pad4)
+U1101,5,OUT,power_out,/WASD haptics/HAPTIC_1V8
+U1102,5,SDA_B,bidirectional,PMIC_SDA
+U1102,8,SCL_B,bidirectional,PMIC_SCL
+U1102,7,VCCB,power_in,3V3
+U1102,6,GND,power_in,GND
+U1102,3,VCCA,power_in,/WASD haptics/HAPTIC_1V8
+U1102,2,OE,input,Net-(U1102-OE)
+U1102,4,SDA_A,bidirectional,/WASD haptics/HAPTIC_SDA
+U1102,1,SCL_A,bidirectional,/WASD haptics/HAPTIC_SCL

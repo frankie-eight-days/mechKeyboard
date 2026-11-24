@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="170" viewBox="0 0 960 170" role="img" aria-labelledby="t d">
+  <title id="t">Blender shot list</title><desc id="d">Three empty render slots for the assembled keyboard, exploded stack and sculpted case editions.</desc>
+  <rect width="960" height="170" rx="12" fill="#152326"/>
+  <g stroke="#395153" fill="none"><path d="M320 18v134m320-134v134"/></g>
+  <g fill="none" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round">
+    <g stroke="#a3ead0" transform="translate(40 24)">
+      <path d="m0 59 132-22 80 21L78 86z m0 0v7l78 27 134-29v-6"/>
+      <path d="m27 59 105-18m-91 23 109-19m-93 24 107-20m-89 25 103-20"/><ellipse cx="179" cy="55" rx="7" ry="2.5"/>
+    </g>
+    <g transform="translate(369 23)" stroke="#ffd496">
+      <path d="m8 30 104-18 69 16-106 20z m0 20 104-18 69 16-106 20z m0 21 104-18 69 16-106 20z"/>
+      <path d="M7 32v35m174-36v35m-106-16v34" stroke-dasharray="3 5" opacity=".55"/>
+    </g>
+    <g transform="translate(678 27)" stroke="#a8c7f4">
+      <path d="M0 68h235M4 65l13-19h-6l12-18 13 18h-6l13 19m-9-5 21-32 25 38m-13-12 19-28 26 40"/>
+      <path d="M124 66V44h17v22m4 0V29h18v37m5 0V14h19v52m5 0V39h14v27m5 0V49h15v17m-52-46v-9m-24 33h7m17-5h7m-7 10h7"/>
+    </g>
+  </g>
+  <g font-family="system-ui,sans-serif" font-weight="600" font-size="21" fill="#f5f6f1">
+    <text x="35" y="143">Assembled</text><text x="355" y="143">Exploded</text><text x="675" y="143">Case editions</text>
+  </g>
+  <g font-family="monospace" font-size="10" letter-spacing="1.7" fill="#b2c7c6">
+    <text x="36" y="23">01 / RENDER SLOT</text><text x="356" y="23">02 / RENDER SLOT</text><text x="676" y="23">03 / RENDER SLOT</text>
+  </g>
+</svg>

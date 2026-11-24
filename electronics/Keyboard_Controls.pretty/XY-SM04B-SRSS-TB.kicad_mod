@@ -1,0 +1,251 @@
+(footprint "XY-SM04B-SRSS-TB"
+	(version 20260206)
+	(generator "pcbnew")
+	(layer "F.Cu")
+	(descr "XYECONN XY-SM04B-SRSS-TB, top view with mating side +Y. XY-SMNB-SRSS-TB Rev A drawing, 4-position row. Nonfunctional 3D envelope for placement.")
+	(tags "SH 1mm horizontal four contacts")
+	(attr smd)
+	(property "Reference" "REF**"
+		(at 0 -4.0 0)
+		(layer "F.SilkS")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XY-SM04B-SRSS-TB"
+		(at 0 4.2 0)
+		(layer "F.Fab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -3.1 -0.8)
+		(end -2.0 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7652c5d2-fcc3-4aab-92a7-2e934d5a0dd7")
+	)
+	(fp_line
+		(start -2.0 -0.8)
+		(end -1.5 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a58f6c37-9bd0-4fac-8582-61413ded2e15")
+	)
+	(fp_line
+		(start -1.5 -0.3)
+		(end -1.0 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7dbb093b-fc20-4bc8-82af-e808d023756d")
+	)
+	(fp_line
+		(start -1.0 -0.8)
+		(end 3.1 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc6acd13-6a1f-4b12-bb46-046ed41772eb")
+	)
+	(fp_line
+		(start 3.1 -0.8)
+		(end 3.1 2.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ba6e3c7-936d-4994-a333-7c95fe8e6bdc")
+	)
+	(fp_line
+		(start 3.1 2.85)
+		(end -3.1 2.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "07cc82c0-df0e-42fb-941d-92c7229294d6")
+	)
+	(fp_line
+		(start -3.1 2.85)
+		(end -3.1 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4ec40d6e-a327-4ed0-ab4c-a9a6926ef872")
+	)
+	(fp_line
+		(start -3.22 0.72)
+		(end -3.22 -0.92)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "29286e9b-616f-4a4e-9b6e-c0f37df9e185")
+	)
+	(fp_line
+		(start -3.22 -0.92)
+		(end -2 -0.92)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ac310f9-8f38-4b5e-b8e4-a0d8d780c8d9")
+	)
+	(fp_line
+		(start -2 -0.92)
+		(end -2 -2.82)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0e8ed13-46b9-408e-8676-2193233b2d54")
+	)
+	(fp_line
+		(start 2 -0.92)
+		(end 3.22 -0.92)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8805c410-a3a1-4b77-a2c3-0c079d7e6885")
+	)
+	(fp_line
+		(start 3.22 -0.92)
+		(end 3.22 0.72)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6e5820e8-24b7-497e-ab9a-c92ed3b823b7")
+	)
+	(fp_line
+		(start -1.95 2.97)
+		(end 1.95 2.97)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "67595dfc-dd52-483f-aa3e-a53fd9c5f23a")
+	)
+	(fp_line
+		(start -3.9 -3.3)
+		(end 3.9 -3.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "24b7ae35-048b-4fdd-b6fc-3f10f4e7ec00")
+	)
+	(fp_line
+		(start 3.9 -3.3)
+		(end 3.9 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cd6c8298-a8f1-4029-bce0-ed94d574b398")
+	)
+	(fp_line
+		(start 3.9 3.5)
+		(end -3.9 3.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d192bab5-c0d9-4e47-a49a-d935de77ec73")
+	)
+	(fp_line
+		(start -3.9 3.5)
+		(end -3.9 -3.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "890d712f-2fb1-479c-8fa9-6bff156e3f70")
+	)
+	(pad "1" smd roundrect
+		(at -1.5 -2)
+		(size 0.6 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "e24d8385-59cd-4f79-90ad-f1afd1d53978")
+	)
+	(pad "2" smd roundrect
+		(at -0.5 -2)
+		(size 0.6 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "1c3cde0a-fa62-47b3-ad8e-8034f3eb8f85")
+	)
+	(pad "3" smd roundrect
+		(at 0.5 -2)
+		(size 0.6 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "33c5fc19-39c1-43d1-ac81-b7f973917b14")
+	)
+	(pad "4" smd roundrect
+		(at 1.5 -2)
+		(size 0.6 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "3a8711d4-3298-43d7-9265-1e8e45e03769")
+	)
+	(pad "MP" smd roundrect
+		(at -2.8 2)
+		(size 1.2 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "f8fc8a1c-2c8a-485d-aeaa-e56f15b8f8a3")
+	)
+	(pad "MP" smd roundrect
+		(at 2.8 2)
+		(size 1.2 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.2)
+		(uuid "23a45a42-ecda-45bc-9af5-26b4193e8bc5")
+	)
+	(model "${KIPRJMOD}/Keyboard_Controls.3dshapes/XY-SM04B-SRSS-TB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

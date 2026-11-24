@@ -1,0 +1,87 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-11-22T09:14:20",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.8",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001",
+            "violations": []
+        },
+        {
+            "path": "/Key matrix/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/95938abe-13e3-49dd-b52a-5dc887152002",
+            "violations": []
+        },
+        {
+            "path": "/BLE and USB controller/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/95938abe-13e3-49dd-b52a-5dc887152003",
+            "violations": []
+        },
+        {
+            "path": "/USB-C input/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/95938abe-13e3-49dd-b52a-5dc887152004",
+            "violations": []
+        },
+        {
+            "path": "/RGB lighting/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/95938abe-13e3-49dd-b52a-5dc887152005",
+            "violations": []
+        },
+        {
+            "path": "/Charger and pack/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/95938abe-13e3-49dd-b52a-5dc887152006",
+            "violations": []
+        },
+        {
+            "path": "/Logic supply/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/95938abe-13e3-49dd-b52a-5dc887152007",
+            "violations": []
+        },
+        {
+            "path": "/USB current limiter/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/95938abe-13e3-49dd-b52a-5dc887152008",
+            "violations": []
+        },
+        {
+            "path": "/RGB supply/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/95938abe-13e3-49dd-b52a-5dc887152009",
+            "violations": []
+        },
+        {
+            "path": "/Display and volume/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/72a382ff-3e1c-481f-ade2-a99be0992584",
+            "violations": []
+        },
+        {
+            "path": "/WASD haptics/",
+            "uuid_path": "/95938abe-13e3-49dd-b52a-5dc887152001/68b31e99-a73b-4c9e-a09f-b52417317ae0",
+            "violations": []
+        }
+    ],
+    "source": "keyboard.kicad_sch"
+}

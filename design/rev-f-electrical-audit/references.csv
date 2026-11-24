@@ -1,0 +1,441 @@
+ref,value,mpn,supplier_code,footprint,sheet,assembly_field
+R400,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/,Factory SMT
+R401,10k,0603WAF1002T5E,C25804,Resistor_SMD:R_0603_1608Metric,/,Factory SMT
+SW400,MSK12C02,MSK12C02,C431540,Button_Switch_SMD:SW_SPDT_Shouhan_MSK12C02,/,Factory SMT
+D1,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D2,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D3,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D4,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D5,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D6,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D7,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D8,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D9,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D10,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D11,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D12,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D13,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D14,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D15,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D16,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D17,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D18,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D19,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D20,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D21,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D22,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D23,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D24,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D25,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D26,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D27,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D28,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D29,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D30,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D31,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D32,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D33,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D34,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D35,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D36,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D37,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D38,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D39,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D40,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D41,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D42,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D43,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D44,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D45,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D46,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D47,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D48,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D49,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D50,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D51,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D52,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D53,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D54,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D55,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D56,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D57,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D58,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D59,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D60,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D61,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D62,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D63,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D64,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D65,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D66,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+D67,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/Key matrix/,Factory SMT
+SW1,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW2,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW3,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW4,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW5,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW6,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW7,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW8,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW9,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW10,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW11,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW12,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW13,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW14,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_2.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW15,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW16,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.50u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW17,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW18,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW19,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW20,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW21,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW22,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW23,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW24,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW25,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW26,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW27,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW28,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW29,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.50u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW30,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW31,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.75u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW32,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW33,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW34,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW35,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW36,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW37,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW38,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW39,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW40,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW41,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW42,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW43,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_2.25u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW44,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW45,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_2.25u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW46,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW47,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW48,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW49,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW50,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW51,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW52,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW53,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW54,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW55,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW56,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.75u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW57,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW58,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW59,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.25u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW60,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.25u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW61,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.25u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW62,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_6.25u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW63,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.25u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW64,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.25u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW65,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW66,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+SW67,MX2A-L1NB,MX2A-L1NB,,Keyboard_MX:SW_Cherry_MX_1.00u_PCB_RGB,/Key matrix/,Hand solder after plate installation
+C100,18 pF,0603CG180F500NT,C165734,Capacitor_SMD:C_0603_1608Metric,/BLE and USB controller/,Factory SMT
+C101,18 pF,0603CG180F500NT,C165734,Capacitor_SMD:C_0603_1608Metric,/BLE and USB controller/,Factory SMT
+C102,100 nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/BLE and USB controller/,Factory SMT
+J100,Cortex Debug 10,FTSH-105-01-L-DV-007-K,C5296739,Keyboard_RF:FTSH-105-01-L-DV-007-K,/BLE and USB controller/,Factory SMT
+R100,4.7 k,0603WAF4701T5E,C23162,Resistor_SMD:R_0603_1608Metric,/BLE and USB controller/,Factory SMT
+R101,4.7 k,0603WAF4701T5E,C23162,Resistor_SMD:R_0603_1608Metric,/BLE and USB controller/,Factory SMT
+R102,10 k,0603WAF1002T5E,C25804,Resistor_SMD:R_0603_1608Metric,/BLE and USB controller/,Factory SMT
+R103,100 k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/BLE and USB controller/,Factory SMT
+R104,100 k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/BLE and USB controller/,Factory SMT
+U100,BMD-340-A-R,BMD-340-A-R,C5456944,Keyboard_RF:BMD-340,/BLE and USB controller/,Factory SMT
+Y100,32.768 kHz,Q13FC13500005,C841881,Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm,/BLE and USB controller/,Factory SMT
+C200,100n,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB-C input/,Factory SMT
+C201,4.7µF / 25V,CL21A475KAQNNNE,C1779,Capacitor_SMD:C_0805_2012Metric,/USB-C input/,Factory SMT
+C202,1µF / 25V,CL10B105KA8NFNC,C307479,Capacitor_SMD:C_0603_1608Metric,/USB-C input/,Factory SMT
+C203,100pF,CC0603JRNPO9BN101,C14665,Capacitor_SMD:C_0603_1608Metric,/USB-C input/,Factory SMT
+C204,47µF / 16V,TPSD476K016R0150,C284840,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D,/USB-C input/,Factory SMT
+C205,100n,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB-C input/,Factory SMT
+C206,47µF / 16V,TPSD476K016R0150,C284840,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D,/USB-C input/,Factory SMT
+C207,100n,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB-C input/,Factory SMT
+C208,47µF / 16V,TPSD476K016R0150,C284840,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D,/USB-C input/,Factory SMT
+C209,100n,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB-C input/,Factory SMT
+J200,TYPE-C-31-M-12,TYPE-C-31-M-12,C165948,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,/USB-C input/,Factory SMT
+Q200,CSD17309Q3,CSD17309Q3,C485528,Package_SON:VSON-8_3.3x3.3mm_P0.65mm_NexFET,/USB-C input/,Factory SMT
+Q201,CSD17309Q3,CSD17309Q3,C485528,Package_SON:VSON-8_3.3x3.3mm_P0.65mm_NexFET,/USB-C input/,Factory SMT
+R200,150k,0603WAF1503T5E,C22807,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R201,150k,0603WAF1503T5E,C22807,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R202,1.8M,0603WAF1804T5E,C13318,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R203,1.8M,0603WAF1804T5E,C13318,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R204,1Ω / 2W,CRM2512-FX-1R00ELF,C840604,Resistor_SMD:R_2512_6332Metric,/USB-C input/,Factory SMT
+R205,1M / 0.1%,RT0603BRD071ML,C326730,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R206,30k / 1%,0603WAF3002T5E,C22984,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R207,100k / 0.1%,RT0603BRD07100KL,C122538,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R208,0.10Ω / 2W,CRM2512-FX-R100ELF,C840603,Resistor_SMD:R_2512_6332Metric,/USB-C input/,Factory SMT
+R209,10Ω,0603WAF100JT5E,C22859,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R210,10Ω,0603WAF100JT5E,C22859,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R211,5.23k,0603WAF5231T5E,C23068,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R212,1M / 0.1%,RT0603BRD071ML,C326730,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R213,150k,0603WAF1503T5E,C22807,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+R214,100k / 0.1%,RT0603BRD07100KL,C122538,Resistor_SMD:R_0603_1608Metric,/USB-C input/,Factory SMT
+U200,FUSB303BTMX,FUSB303BTMX,C895444,Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm,/USB-C input/,Factory SMT
+U201,TPD2E2U06DRLR,TPD2E2U06DRLR,C1972959,Package_TO_SOT_SMD:SOT-553,/USB-C input/,Factory SMT
+U202,TPD2E2U06DRLR,TPD2E2U06DRLR,C1972959,Package_TO_SOT_SMD:SOT-553,/USB-C input/,Factory SMT
+U203,LTC4365ITS8,LTC4365ITS8#TRMPBF,C580883,Package_TO_SOT_SMD:TSOT-23-8,/USB-C input/,Factory SMT
+C301,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C302,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C303,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C304,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C305,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C306,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C307,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C308,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C309,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C310,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C311,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C312,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C313,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C314,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C315,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C316,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C317,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C318,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C319,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C320,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C321,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C322,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C323,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C324,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C325,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C326,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C327,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C328,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C329,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C330,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C331,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C332,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C333,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C334,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C335,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C336,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C337,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C338,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C339,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C340,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C341,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C342,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C343,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C344,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C345,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C346,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C347,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C348,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C349,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C350,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C351,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C352,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C353,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C354,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C355,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C356,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C357,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C358,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C359,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C360,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C361,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C362,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C363,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C364,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C365,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C366,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C367,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C380,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+C381,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB lighting/,Factory SMT
+LED1,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED2,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED3,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED4,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED5,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED6,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED7,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED8,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED9,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED10,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED11,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED12,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED13,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED14,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED15,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED16,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED17,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED18,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED19,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED20,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED21,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED22,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED23,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED24,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED25,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED26,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED27,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED28,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED29,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED30,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED31,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED32,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED33,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED34,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED35,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED36,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED37,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED38,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED39,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED40,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED41,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED42,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED43,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED44,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED45,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED46,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED47,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED48,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED49,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED50,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED51,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED52,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED53,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED54,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED55,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED56,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED57,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED58,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED59,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED60,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED61,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED62,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED63,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED64,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED65,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED66,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+LED67,SK6812MINI-E,SK6812MINI-E,C5149201,Keyboard_LED:SK6812MINI-E_Routed,/RGB lighting/,Factory SMT
+R300,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/RGB lighting/,Factory SMT
+R301,33R,0603WAF330JT5E,C23140,Resistor_SMD:R_0603_1608Metric,/RGB lighting/,Factory SMT
+R302,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/RGB lighting/,Factory SMT
+TP300,Last pixel DOUT,,,TestPoint:TestPoint_Pad_D1.0mm,/RGB lighting/,
+U300,SN74LVC1T45DBVR,SN74LVC1T45DBVR,C7843,Package_TO_SOT_SMD:SOT-23-6,/RGB lighting/,Factory SMT
+C600,47 nF / 50 V,CL10B473KB8NNNC,C1622,Capacitor_SMD:C_0603_1608Metric,/Charger and pack/,Factory SMT
+C601,1 µF / 25 V,CL10B105KA8NFNC,C307479,Capacitor_SMD:C_0603_1608Metric,/Charger and pack/,Factory SMT
+C602,10 µF / 50 V,CL31A106KBHNNNE,C13585,Capacitor_SMD:C_1206_3216Metric,/Charger and pack/,Factory SMT
+C603,100 nF / 50 V,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/Charger and pack/,Factory SMT
+C604,4.7 µF / 25 V,CL21A475KAQNNNE,C1779,Capacitor_SMD:C_0805_2012Metric,/Charger and pack/,Factory SMT
+C605,10 µF / 10 V,CL21A106KPFNNNE,C17024,Capacitor_SMD:C_0805_2012Metric,/Charger and pack/,Factory SMT
+C606,10 µF / 10 V,CL21A106KPFNNNE,C17024,Capacitor_SMD:C_0805_2012Metric,/Charger and pack/,Factory SMT
+C607,10 µF / 10 V,CL21A106KPFNNNE,C17024,Capacitor_SMD:C_0805_2012Metric,/Charger and pack/,Factory SMT
+C608,330 nF / 25 V,CL10B334KA8VPNC,C5139492,Capacitor_SMD:C_0603_1608Metric,/Charger and pack/,Factory SMT
+C609,100 nF / 50 V,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/Charger and pack/,Factory SMT
+C610,100 nF / 50 V,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/Charger and pack/,Factory SMT
+J600,502352-0300,5023520300,C412111,Connector_Molex:Molex_DuraClik_502352-0300_1x03-1MP_P2.00mm_Horizontal,/Charger and pack/,Factory SMT
+L600,1 µH,XGL4030-102MEC,C6336766,Inductor_SMD:L_Coilcraft_XAL4030-XXX,/Charger and pack/,Factory SMT
+Q600,2N7002,2N7002,C8545,Package_TO_SOT_SMD:SOT-23,/Charger and pack/,Factory SMT
+Q601,2N7002,2N7002,C8545,Package_TO_SOT_SMD:SOT-23,/Charger and pack/,Factory SMT
+R600,24.9 kΩ,0603WAF2492T5E,C25962,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R601,1.2 kΩ,0603WAF1201T5E,C22765,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R602,5.23 kΩ,0603WAF5231T5E,C23068,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R603,30.1 kΩ,0603WAF3012T5E,C23000,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R604,100 kΩ,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R605,100 kΩ,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R606,100 kΩ,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R607,30.1 kΩ,0603WAF3012T5E,C23000,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R608,20 kΩ,0603WAF2002T5E,C4184,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R609,49.9 kΩ,0603WAF4992T5E,C23184,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+R610,100 kΩ,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/Charger and pack/,Factory SMT
+U600,BQ25622RYKR,BQ25622RYKR,C6135214,Charger:TI_RYK0018A,/Charger and pack/,Factory SMT
+U601,TLV7042DGKR,TLV7042DGKR,C2760466,Package_SO:VSSOP-8_3x3mm_P0.65mm,/Charger and pack/,Factory SMT
+C700,22 µF / 10 V,GRM31CR71A226KE15L,C91604,Capacitor_SMD:C_1206_3216Metric,/Logic supply/,Factory SMT
+C701,22 µF / 10 V,GRM31CR71A226KE15L,C91604,Capacitor_SMD:C_1206_3216Metric,/Logic supply/,Factory SMT
+C702,22 µF / 10 V,GRM31CR71A226KE15L,C91604,Capacitor_SMD:C_1206_3216Metric,/Logic supply/,Factory SMT
+L700,2.2 µH,DFE201612E-2R2M=P2,C337893,Keyboard_Power:Murata_DFE201612E,/Logic supply/,Factory SMT
+R700,36.5 kΩ / 1%,0603WAF3652T5E,C23029,Resistor_SMD:R_0603_1608Metric,/Logic supply/,Factory SMT
+U700,TPS63900DSKR,TPS63900DSKR,C1518762,Package_SON:WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm,/Logic supply/,Factory SMT
+C800,10µF / 50V,CL31A106KBHNNNE,C13585,Capacitor_SMD:C_1206_3216Metric,/USB current limiter/,Factory SMT
+C801,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB current limiter/,Factory SMT
+C802,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB current limiter/,Factory SMT
+C803,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB current limiter/,Factory SMT
+C804,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB current limiter/,Factory SMT
+C805,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB current limiter/,Factory SMT
+C806,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB current limiter/,Factory SMT
+C807,100nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/USB current limiter/,Factory SMT
+D800,BAS40-05,"BAS40-05,215",C85391,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+D801,BAS40-05,"BAS40-05,215",C85391,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+D802,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/USB current limiter/,Factory SMT
+D803,1N4148W,1N4148W,C2099,Diode_SMD:D_SOD-123,/USB current limiter/,Factory SMT
+Q800,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+Q801,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+Q802,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+Q803,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+Q804,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+Q805,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+Q806,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+Q807,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+Q808,AO3400A,AO3400A,C20917,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+R800,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R801,3.32k,0603WAF3321T5E,C22995,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R802,19.1k,0603WAF1912T5E,C22897,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R803,100R,0603WAF1000T5E,C22775,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R804,634R,RC0603FR-07634RL,C245990,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R805,1.24k,0603WAF1241T5E,C25956,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R806,4.32k,0603WAF4321T5E,C23158,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R807,1k,0603WAF1001T5E,C21190,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R808,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R809,39k,0603WAF3902T5E,C23153,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R810,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R811,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R812,10k,0603WAF1002T5E,C25804,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R813,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R814,10k,0603WAF1002T5E,C25804,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R815,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R816,100k,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+R817,1k,0603WAF1001T5E,C21190,Resistor_SMD:R_0603_1608Metric,/USB current limiter/,Factory SMT
+U800,TPS22950CQDDCRQ1,TPS22950CQDDCRQ1,C17349276,Package_TO_SOT_SMD:SOT-23-6,/USB current limiter/,Factory SMT
+U801,74HC238D,"74HC238D,653",C5620,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,/USB current limiter/,Factory SMT
+U802,MAX809STRG,MAX809STRG,C9965,Package_TO_SOT_SMD:SOT-23,/USB current limiter/,Factory SMT
+U803,74HC123D,"74HC123D,653",C5597,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,/USB current limiter/,Factory SMT
+C900,100 pF,GRM1885C1H101JA01D,C71664,Capacitor_SMD:C_0603_1608Metric,/RGB supply/,Factory SMT
+C901,22 µF / 10 V,GRM31CR71A226KE15L,C91604,Capacitor_SMD:C_1206_3216Metric,/RGB supply/,Factory SMT
+C902,22 µF / 10 V,GRM31CR71A226KE15L,C91604,Capacitor_SMD:C_1206_3216Metric,/RGB supply/,Factory SMT
+C903,22 µF / 10 V,GRM31CR71A226KE15L,C91604,Capacitor_SMD:C_1206_3216Metric,/RGB supply/,Factory SMT
+C904,470 µF / 6.3 V,6TPE470M,C427179,Keyboard_Power:Panasonic_POSCAP_D4,/RGB supply/,Factory SMT
+C905,470 µF / 6.3 V,6TPE470M,C427179,Keyboard_Power:Panasonic_POSCAP_D4,/RGB supply/,Factory SMT
+C906,100 nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/RGB supply/,Factory SMT
+L900,2.2 µH,DFE201612E-2R2M=P2,C337893,Keyboard_Power:Murata_DFE201612E,/RGB supply/,Factory SMT
+R900,20k / 1%,0603WAF2002T5E,C4184,Resistor_SMD:R_0603_1608Metric,/RGB supply/,Factory SMT
+R901,768k / 1%,RC0603FR-07768KL,C482916,Resistor_SMD:R_0603_1608Metric,/RGB supply/,Factory SMT
+R902,243k / 1%,CRCW0603243KFKEA,C4330332,Resistor_SMD:R_0603_1608Metric,/RGB supply/,Factory SMT
+R903,10k / 1%,0603WAF1002T5E,C25804,Resistor_SMD:R_0603_1608Metric,/RGB supply/,Factory SMT
+R904,10k / 1%,0603WAF1002T5E,C25804,Resistor_SMD:R_0603_1608Metric,/RGB supply/,Factory SMT
+R905,100k / 1%,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/RGB supply/,Factory SMT
+R906,100k / 1%,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/RGB supply/,Factory SMT
+U900,TPS61252DSGR,TPS61252DSGR,C128617,Package_SON:Texas_DSG0008A_WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm,/RGB supply/,Factory SMT
+U901,TPS3808G33DBVR,TPS3808G33DBVR,C43698,Package_TO_SOT_SMD:SOT-23-6,/RGB supply/,Factory SMT
+C1000,1 µF,CL10B105KA8NFNC,C307479,Capacitor_SMD:C_0603_1608Metric,/Display and volume/,Factory SMT
+C1001,1 µF,CL10B105KA8NFNC,C307479,Capacitor_SMD:C_0603_1608Metric,/Display and volume/,Factory SMT
+C1002,10 nF,CL10B103KB8NNNC,C1589,Capacitor_SMD:C_0603_1608Metric,/Display and volume/,Factory SMT
+J1000,SH 1.0 mm · 4 pin,XY-SM04B-SRSS-TB,C51940130,Keyboard_Controls:XY-SM04B-SRSS-TB,/Display and volume/,Factory SMT
+R1000,100 kΩ,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/Display and volume/,Factory SMT
+R1001,1 kΩ,0603WAF1001T5E,C21190,Resistor_SMD:R_0603_1608Metric,/Display and volume/,Factory SMT
+R1002,10 kΩ,0603WAF1002T5E,C25804,Resistor_SMD:R_0603_1608Metric,/Display and volume/,Factory SMT
+R1003,10 kΩ,0603WAF1002T5E,C25804,Resistor_SMD:R_0603_1608Metric,/Display and volume/,Factory SMT
+R1004,100 Ω,0603WAF1000T5E,C22775,Resistor_SMD:R_0603_1608Metric,/Display and volume/,Factory SMT
+RV1000,10 kΩ linear,RK09K1130A6S,C209770,Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical,/Display and volume/,JLC manual THT assembly or hand-solder after reflow
+U1000,TPS22919DCKR,TPS22919DCKR,C2149796,Package_TO_SOT_SMD:SOT-363_SC-70-6,/Display and volume/,Factory SMT
+C1100,1 µF,CL10B105KA8NFNC,C307479,Capacitor_SMD:C_0603_1608Metric,/WASD haptics/,Factory SMT
+C1101,47 µF,TPSD476K016R0150,C284840,Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D,/WASD haptics/,Factory SMT
+C1103,1 µF,CL10B105KA8NFNC,C307479,Capacitor_SMD:C_0603_1608Metric,/WASD haptics/,Factory SMT
+C1104,1 µF,CL10B105KA8NFNC,C307479,Capacitor_SMD:C_0603_1608Metric,/WASD haptics/,Factory SMT
+C1105,1 µF,CL10B105KA8NFNC,C307479,Capacitor_SMD:C_0603_1608Metric,/WASD haptics/,Factory SMT
+C1106,100 nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/WASD haptics/,Factory SMT
+C1107,100 nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/WASD haptics/,Factory SMT
+C1108,100 nF,CL10B104KB8NNNC,C1591,Capacitor_SMD:C_0603_1608Metric,/WASD haptics/,Factory SMT
+M1100,LD0832AA-0099F,LD0832AA-0099F,C2682305,Keyboard_Controls:LD0832AA-0099F_WirePads,/WASD haptics/,Hand solder after reflow and bond to PCB
+R1100,100 kΩ,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/WASD haptics/,Factory SMT
+R1101,100 kΩ,0603WAF1003T5E,C25803,Resistor_SMD:R_0603_1608Metric,/WASD haptics/,Factory SMT
+U1100,DRV2605LDGSR,DRV2605LDGSR,C527464,Package_SO:TSSOP-10_3x3mm_P0.5mm,/WASD haptics/,Factory SMT
+U1101,TPS7A0218PDBVR,TPS7A0218PDBVR,C3748843,Package_TO_SOT_SMD:SOT-23-5,/WASD haptics/,Factory SMT
+U1102,TCA9416DDFR,TCA9416DDFR,C4364143,Keyboard_Controls:Texas_DDF0008A_TSOT-23-8,/WASD haptics/,Factory SMT
