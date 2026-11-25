@@ -6,11 +6,9 @@ How far can AI take a keyboard from a sketch to a set of build files? This is th
 
 [**Pick up the design →**](HANDOFF.md) · [**Read the schematic →**](electronics/keyboard-schematic.pdf) · [**Explore the case →**](mechanical/sculpted-cases.pdf)
 
-![FreeCAD exploded assembly showing how the keybed, plate, PCB and split enclosure fit together](mechanical/exploded-assembly.png)
+[![Assembled 67-key keyboard on a walnut desk in daylight, with ivory keys, juniper modifiers and a vermilion volume dial](docs/renders/daylight.webp)](docs/renders/daylight.webp)
 
-*Exploded assembly from the FreeCAD fit study. The assembly guide and mounting sections show the fasteners and stack heights.*
-
-> **Rev F • Before PCB placement.** The schematic, editable case models and review evidence are here. The electrical review holds placement on three power-path decisions. PCB routing, Gerbers, firmware and hardware validation are still ahead. [Read the handoff](HANDOFF.md)
+> **Rev F handoff • Before PCB placement.** The schematic, editable case models and review evidence are here. The electrical review holds placement on three power-path decisions. PCB routing, Gerbers, firmware and hardware validation are still ahead. [Read the handoff](HANDOFF.md)
 
 ## Inside the design
 
@@ -24,15 +22,33 @@ How far can AI take a keyboard from a sketch to a set of build files? This is th
 
 ## Blender render gallery
 
-![Three Blender render placeholders for the assembled keyboard, the exploded stack and the sculpted covers](docs/renders/blender-storyboard.svg)
+### Under the keycaps
 
-| Planned shot | What to show | Future image |
-|---|---|---|
-| **Assembled** | Front three-quarter view with legends, dial and OLED visible | `docs/renders/assembled.webp` |
-| **Exploded** | Plate, PCB, battery and captive hardware along the assembly axis | `docs/renders/exploded.webp` |
-| **Case editions** | Alpine Pass and Elevated City side by side, with raking light across the relief | `docs/renders/editions.webp` |
+[![Exploded three-quarter view showing the 67 keycaps, MX switches, steel plate, routed PCB, cell and split tray](docs/renders/exploded.webp)](docs/renders/exploded.webp)
 
-The current [FreeCAD case gallery](mechanical/sculpted-cases.pdf) shows both editions. Their [print sets](mechanical/sculpted-cases/README.md) include the shared OLED carrier and support-free print orientations.
+The steel plate holds the switches above the PCB. The cell sits in the left half of the tray and is drawn forward here to reveal it. [FreeCAD exploded study](mechanical/exploded-assembly.png) · [Assembly guide](mechanical/assembly-guide.pdf)
+
+| The assembled controls | The rear cover lifted |
+|---|---|
+| [![Close-up of the sculpted keys and knurled volume dial](docs/renders/controls.webp)](docs/renders/controls.webp) | [![Exploded rear corner exposing the USB-C receptacle and selector beneath the cover](docs/renders/rear-exploded.webp)](docs/renders/rear-exploded.webp) |
+
+### The populated board
+
+[![Full underside of the six-layer keyboard PCB, showing the repeated reverse-mounted LEDs and the denser electronics along the rear edge](docs/renders/pcb-back.webp)](docs/renders/pcb-back.webp)
+
+| USB-C and the rear controls | Underside power circuitry |
+|---|---|
+| [![Component-side macro of the USB-C shell, selector and neighboring surface-mount parts](docs/renders/controller.webp)](docs/renders/controller.webp) | [![Solder-side macro showing aluminum capacitors, ICs, LEDs and their surrounding passives](docs/renders/underside.webp)](docs/renders/underside.webp) |
+
+These renders show the later six-layer layout. The Blender scene uses the saved right-rear PCB for placement, outer copper, pads, solder mask and silkscreen. KiCad supplied 399 component models. The remaining fitted parts use mechanical CAD or representative package bodies, including the 67 MX switches. The test pad and board outline have no separate assembly body. The sculpted caps follow the project's key centers and widths. Colors, legends and desk lighting are render choices. [Key layout](mechanical/key-centers.csv)
+
+The USB-C model is by Adom Industries Inc. and the upstream KiCad contributors. The display model is by Adafruit. [USB-C model source](https://wiki.adom.inc/adom/type-c-31-m-12/files/type-c-31-m-12.step) · [USB-C model license](https://creativecommons.org/licenses/by-sa/4.0/) · [Display model license](mechanical/vendor/Adafruit-LICENSE.txt)
+
+### After hours
+
+[![The assembled keyboard under cool blue desk lighting with an amber reflection and warm light on the walnut](docs/renders/blue-hour.webp)](docs/renders/blue-hour.webp)
+
+The [FreeCAD case gallery](mechanical/sculpted-cases.pdf) also shows the Alpine Pass and Elevated City editions and their [print sets](mechanical/sculpted-cases/README.md).
 
 ## On the workbench
 
